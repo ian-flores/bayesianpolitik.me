@@ -1,0 +1,693 @@
+<!DOCTYPE html>
+<html lang="en-CA">
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1">
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no, maximum-scale=1" />
+  <meta name="author" content="Ian Flores Siaca">
+  <meta name="description" content="Contexto Descargue todos los datos catalogados como históricos en la página de la Comisión Estatal de Elecciones de Puerto Rico para hacerlos accesible en un formato que pueda ser combinado con datos del Censo, así como otros indicadores socio-económicos para entender mejor los patrones políticos en Puerto Rico. En el próximo mes estare añadiendo los datos de las elecciones de 2004, 2008, 2012, y 2016 pero con mayor detalle espacial que por municipios.">
+  
+  <meta property="og:title" content="Datos Históricos de las Elecciones en Puerto Rico" />
+<meta property="og:description" content="Contexto Descargue todos los datos catalogados como históricos en la página de la Comisión Estatal de Elecciones de Puerto Rico para hacerlos accesible en un formato que pueda ser combinado con datos del Censo, así como otros indicadores socio-económicos para entender mejor los patrones políticos en Puerto Rico. En el próximo mes estare añadiendo los datos de las elecciones de 2004, 2008, 2012, y 2016 pero con mayor detalle espacial que por municipios." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="/blog/2018-11/datos-hist%C3%B3ricos-de-las-elecciones-en-puerto-rico/" /><meta property="article:published_time" content="2018-11-03T00:00:00&#43;00:00"/>
+<meta property="article:modified_time" content="2018-11-03T00:00:00&#43;00:00"/>
+
+
+
+  <title>
+  
+       Datos Históricos de las Elecciones en Puerto Rico | Bayesian Politics 
+  
+  </title>
+
+  <link rel="canonical" href="/blog/2018-11/datos-hist%C3%B3ricos-de-las-elecciones-en-puerto-rico/">
+
+  
+  
+
+  
+  <link href="/css/vendors-extensions/fontawesome/all.min.css" rel="stylesheet">
+
+  
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:400,700|Ubuntu+Mono:400,400i,700,700i|Raleway:300,400,500,600">
+  <link href="/css/font.css" rel="stylesheet"> 
+    
+  
+  <link href="/css/vendors/bootstrap4/bootstrap.min.css" rel="stylesheet">
+  <link href="/css/vendors-extensions/mdb/mdb.min.css" rel="stylesheet"> 
+  <link href="/css/vendors/mdb/style.min.css" rel="stylesheet"> 
+  <link href="/css/main.css" rel="stylesheet">
+
+
+  
+  <link rel="shortcut icon"
+  
+      href="/img/zheng.png"
+  
+  >
+
+
+  
+  
+
+  <style type="text/css">
+      @media (min-width: 800px) and (max-width: 850px) {
+              .navbar:not(.top-nav-collapse) {
+                  background: #1C2331!important;
+              }
+          }
+  </style>
+
+
+  
+    
+    <link rel="stylesheet" href="/js/vendors/katex/katex.min.css">
+  
+  
+
+  
+    
+    <link rel="stylesheet" href="/css/vendors/highlight/github-gist.css">
+  
+
+</head>
+
+  <body class="bg-light" data-spy="scroll" data-target="#page-scrollspy" data-offset="90">
+  
+    
+
+
+    
+      
+
+
+<nav class="navbar fixed-top navbar-expand-lg navbar-dark scrolling-navbar">
+    <div class="container">
+
+      
+      <a class="navbar-brand" href="/">
+          
+        <img class="avatar" src="/img/zheng.png" style="width: 40px!important;height: auto;"  class="d-inline-block align-top" alt="" >
+        
+        <strong> Bayesian Politics</strong>
+      </a>
+
+      
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
+        aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+
+      
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+
+        
+        <ul class="navbar-nav mr-auto ">
+          <li class="nav-item ">
+            <a class="nav-link" href="/">Home</a>
+          </li>
+             
+            <li class="nav-item ">
+              <a class="nav-link" href="/about/" >About  </a>
+            </li>
+          
+             
+            <li class="nav-item ">
+              <a class="nav-link" href="/moment/" >Moment  </a>
+            </li>
+          
+             
+            <li class="nav-item ">
+              <a class="nav-link" href="/blog/" >Blog  </a>
+            </li>
+          
+          
+        </ul>
+
+      </div>
+
+    </div>
+  </nav>
+  
+
+      
+ 
+
+
+
+
+
+
+<div id="site-header" class="carousel slide carousel-fade" data-ride="carousel" style="height: 18rem;" >  
+
+  
+  
+  
+
+  
+  <div class="carousel-inner" role="listbox">
+    
+      
+
+        
+        <div class="carousel-item active">
+          <div class="view" style="background-image: url('/img/header-slides/raw_1515691746.jpg'); background-repeat: no-repeat; background-size: cover;">
+
+            
+            <div class="mask rgba-black-light d-flex justify-content-center align-items-center">
+
+              
+              
+              
+
+            </div>
+            
+
+          </div>
+        </div>
+        
+      
+    
+      
+
+        
+        <div class="carousel-item">
+          <div class="view" style="background-image: url('/img/header-slides//raw_1515847341.jpg'); background-repeat: no-repeat; background-size: cover;">
+
+            
+            <div class="mask rgba-black-light d-flex justify-content-center align-items-center">
+
+            
+
+            </div>
+            
+
+          </div>
+        </div>
+        
+      
+    
+
+  
+  </div>
+  
+
+  
+  <div class="carousel-content text-center white-text wow fadeIn">
+    <div class="row mx-0 headfont mt-3 pt-4">
+      
+      <div class="col-12 col-sm-5 align-middle">
+        <a href="/">
+          
+            <img class="pull-right avatar avatar-md" src="/img/profile.jpg" alt="" >
+          
+        </a>
+      </div>
+      
+      <div class="col-12 col-sm-7 text-left pl-2">
+        <a href="/">
+          <h1 class="mb-2 h1" style="font-weight: 300;" >
+            <strong>Ian Flores Siaca</strong>
+          </h1>
+        </a>
+        
+
+             
+        <div class="mt-2" style="font-size: 1rem; color: white;">
+            
+              <a href="//github.com/ian-flores" target="_blank" rel="noopener"><i class="fab fa-github pr-1" aria-hidden="true"></i></a>    
+            
+            
+              <a href="//linkedin.com/in/ian-flores-siaca-ba0786a1/" target="_blank" rel="noopener"><i class="fab fa-linkedin pr-1" aria-hidden="true"></i></a>
+            
+
+            
+
+            
+
+            
+
+            
+    
+            
+    
+        
+            
+                <a href="mailto:iflores.siaca@gmail.com"><i class="far fa-envelope-open pr-1" aria-hidden="true"></i></a>
+            
+    
+            
+
+            
+        </div>
+      </div>
+    </div>
+  </div>
+  
+
+  
+  
+  
+
+</div>
+
+    
+
+    
+  
+  <main class="post-main-wrapper">
+    
+    
+    <div class="row">
+
+      
+
+      
+      <div class="col-md-10">
+      
+
+        
+        <div class="z-depth-1  post-wrapper white-bg single-post">
+
+          <div class="post-header text-center" >
+  <ul class="post-meta li-x">
+    
+      
+        <li><a href="/categories/espa%C3%B1ol"><i class="fas fa-folder-open pr-1" aria-hidden="true"></i> Español </a></li>
+      
+    
+    
+      
+        <li><a href="/series/open-data"><i class="fas fa-bookmark pr-1" aria-hidden="true"></i>Open Data</a></li>
+      
+    
+  </ul>
+
+  <div class="px-4 post-heading">Datos Históricos de las Elecciones en Puerto Rico</div>
+
+  <ul class="post-meta li-x mt-1">
+    
+      <li>November 3, 2018</li>
+    
+
+    
+      <li class="middot"></li>
+      <li>2 minutes read</li>
+    
+  </ul>
+  
+    <div class="view">
+      <img src="/images/blog/2018-11/capitol_pr.jpg" />
+    </div>
+  
+
+</div>
+
+
+          <div class="post-content markdown">
+            
+
+<h2 id="contexto">Contexto</h2>
+
+<p>Descargue todos los datos catalogados como históricos en la página de la Comisión Estatal de Elecciones de Puerto Rico para hacerlos accesible en un formato que pueda ser combinado con datos del Censo, así como otros indicadores socio-económicos para entender mejor los patrones políticos en Puerto Rico. En el próximo mes estare añadiendo los datos de las elecciones de 2004, 2008, 2012, y 2016 pero con mayor detalle espacial que por municipios. Pude corregir los nombres de los partidos que reconocí, sin embargo a los otros les deje el código asignado por la CEE. Si los conoce, y puede proveer una referencia para los mismos, por favor envieme un correo electronico a: <a href="mailto:iflores.siaca@gmail.com">iflores.siaca@gmail.com</a></p>
+
+<blockquote>
+<p>El repositorio de GitHub que contiene todo el código de este proyecto esta disponible aqui: <a href="https://github.com/ian-flores/PR_Elections_Historical_Data">https://github.com/ian-flores/PR_Elections_Historical_Data</a></p>
+
+<p>Advertencia: Los datos contenidos en esta página fueron extraidos de la pagina de la Comisión Estatal de Elecciones. De haber discrepancias, refieranse a la página de la comisión como fuente principal.</p>
+</blockquote>
+
+<h3 id="datos-disponibles">Datos Disponibles</h3>
+
+<ul>
+<li>Gobernador <em>(1948 - 2000)</em></li>
+<li>Comisionado Residente <em>(1932 - 1944) &amp; (1980 - 2000)</em></li>
+<li>Alcaldes <em>(1976 - 2000)</em></li>
+</ul>
+
+<h3 id="datos-disponibles-sobre-gobernador">Datos disponibles sobre Gobernador</h3>
+
+<blockquote>
+<p>Los datos estan disponibles para descarga en: <a href="https://github.com/ian-flores/PR_Elections_Historical_Data/blob/master/data/elecciones_generales/gobernador/gobernador.csv">Gobernador_CSV</a></p>
+</blockquote>
+
+<p><img src="https://raw.githubusercontent.com/ian-flores/PR_Elections_Historical_Data/master/doc/descripcion_files/figure-markdown_github/unnamed-chunk-1-1.png" alt="" /></p>
+
+<h3 id="datos-disponibles-sobre-comisionado-residente">Datos disponibles sobre Comisionado Residente</h3>
+
+<blockquote>
+<p>Los datos estan disponibles para descarga en: <a href="https://github.com/ian-flores/PR_Elections_Historical_Data/blob/master/data/elecciones_generales/comisionado_residente/comisionado_residente.csv">Commisionado_CSV</a></p>
+</blockquote>
+
+<p><img src="https://raw.githubusercontent.com/ian-flores/PR_Elections_Historical_Data/master/doc/descripcion_files/figure-markdown_github/unnamed-chunk-3-1.png" alt="" /></p>
+
+<h3 id="datos-disponibles-sobre-alcaldes">Datos disponibles sobre Alcaldes</h3>
+
+<blockquote>
+<p>Los datos estan disponibles para descarga en: <a href="https://github.com/ian-flores/PR_Elections_Historical_Data/blob/master/data/elecciones_generales/alcalde/alcalde.csv">Alcaldes_CSV</a></p>
+</blockquote>
+
+<p><img src="https://raw.githubusercontent.com/ian-flores/PR_Elections_Historical_Data/master/doc/descripcion_files/figure-markdown_github/unnamed-chunk-5-1.png" alt="" /></p>
+
+<blockquote>
+<p>Foto de portada es de <a href="https://www.theguardian.com/world/2017/jun/10/puerto-rico-vote-statehood-us-economy">The Guardian</a>.</p>
+</blockquote>
+
+          </div>
+
+          
+          <div class="row">
+            <div class="col-md-8">
+            
+              <div class="mb-5">
+                
+<div class="li-x div-x post-meta">
+  <li class="pr-0"><a href="/tags/"><i class="fas fa-tags"></i></a></li>
+  <div class="tags-sm">
+    
+      <li><a href="/tags/puerto_rico" role="button">puerto_rico </a></li>
+      
+    
+      <li><a href="/tags/elections" role="button">elections </a></li>
+      
+    
+      <li><a href="/tags/open_data" role="button">open_data </a></li>
+      
+    
+      <li><a href="/tags/tr-blog" role="button">tr-blog </a></li>
+      
+    
+  </div>
+</div>
+              </div>
+            
+            </div>
+            
+          </div>
+          
+
+          
+          <div class="row pt-3">
+            <div class="col-md-6">
+              
+                <a href=/blog/2018-11/historical-data-on-puerto-rico-elections/ class="post-meta">Previous
+                  <div class="pt-2 pb-5 d-flex">
+                    <i class="fas fa-angle-left text-grey font-weight-bold mr-2 active-color"></i>
+                    <span>Historical Data on Puerto Rico Elections</span>
+                  </div>
+                </a>
+              
+            </div>
+            
+            <div class="col-md-6 text-right" >
+              
+                <a href=/blog/2018-11/feminicidios-en-latino-am%C3%A9rica-y-el-caribe/ class="post-meta">Next
+                  <div class="pt-2 pb-5 flex-reverse">
+                    <i class="fas fa-angle-right text-grey font-weight-bold ml-2 active-color"></i>
+                    <span>Feminicidios en Latino América y el Caribe</span>
+                  </div>
+                </a>
+              
+            </div>
+          </div>
+
+          
+
+        </div>
+        
+
+      </div>
+      
+
+      
+	
+	
+	
+	
+		
+		
+		
+	
+
+		
+		<div class="col-md-2 pl-0">
+
+			
+			<div id="page-scrollspy" class="toc-nav">
+				
+				<ul class="nav nav-pills ml-0">
+					
+					<li class="nav-item pb-3 text-center">
+						<span class="font-weight-bold mb-2">- CATALOG - </span>
+					</li>
+
+					
+						
+						
+							
+								
+								
+									<ul class="nav">
+								
+								
+
+										<li class="nav-item">
+						 					<a class="nav-link" href="#contexto">
+												 Contexto
+											</a>
+										</li>
+						 
+								
+								
+									</ul>
+								
+							
+						
+				 
+						
+						
+							
+								
+								
+									<ul class="nav">
+								
+									<ul class="nav">
+								
+								
+
+										<li class="nav-item">
+						 					<a class="nav-link" href="#datos-disponibles">
+												 Datos Disponibles
+											</a>
+										</li>
+						 
+								
+								
+									</ul>
+								
+									</ul>
+								
+							
+						
+				 
+						
+						
+							
+								
+								
+									<ul class="nav">
+								
+									<ul class="nav">
+								
+								
+
+										<li class="nav-item">
+						 					<a class="nav-link" href="#datos-disponibles-sobre-gobernador">
+												 Datos disponibles sobre Gobernador
+											</a>
+										</li>
+						 
+								
+								
+									</ul>
+								
+									</ul>
+								
+							
+						
+				 
+						
+						
+							
+								
+								
+									<ul class="nav">
+								
+									<ul class="nav">
+								
+								
+
+										<li class="nav-item">
+						 					<a class="nav-link" href="#datos-disponibles-sobre-comisionado-residente">
+												 Datos disponibles sobre Comisionado Residente
+											</a>
+										</li>
+						 
+								
+								
+									</ul>
+								
+									</ul>
+								
+							
+						
+				 
+						
+						
+							
+								
+								
+									<ul class="nav">
+								
+									<ul class="nav">
+								
+								
+
+										<li class="nav-item">
+						 					<a class="nav-link" href="#datos-disponibles-sobre-alcaldes">
+												 Datos disponibles sobre Alcaldes
+											</a>
+										</li>
+						 
+								
+								
+									</ul>
+								
+									</ul>
+								
+							
+						
+				 
+
+				</ul>
+			</div>
+			
+
+		</div>
+		
+	
+
+    </div>
+    
+
+
+  </main>
+  
+
+
+
+    
+
+<footer class="page-footer text-center font-small mt-4 wow fadeIn">
+
+
+  
+  <div class="pb-2 mt-5 pt-5">
+    
+      <a href="//github.com/ian-flores " target="_blank" rel="noopener"><i class="fab fa-github mr-3" aria-hidden="true"></i></a>    
+    
+    
+      <a href="//linkedin.com/in/ian-flores-siaca-ba0786a1/" target="_blank" rel="noopener"><i class="fab fa-linkedin-in mr-3" aria-hidden="true"></i></a>
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+
+    
+        <a href="mailto:iflores.siaca@gmail.com"><i class="far fa-envelope-open mr-3" aria-hidden="true"></i></a>
+    
+
+    
+
+    
+
+  </div>
+  
+  
+  <div class="copyright py-4">
+    
+
+ <span>  2018 | Theme modified from <a href='https://github.com/orianna-zzo/AllinOne' target="_blank">AllinOne</a> by <a href='https://github.com/ian-flores' target="_blank">Ian Flores Siaca</a>  </span>
+  </div>
+  
+
+</footer>
+
+
+    
+
+
+
+
+
+
+<script type="text/javascript" src="/js/vendors/jquery/jquery-3.3.1.min.js"></script>
+<script type="text/javascript" src="/js/vendors/jquery/jquery.smooth-scroll.min.js"></script>
+
+
+
+<script type="text/javascript" src="/js/vendors/popper.min.js"></script>
+<script type="text/javascript" src="/js/vendors/holder.min.js"></script>
+<script type="text/javascript" src="/js/vendors-extensions/bootstrap4/bootstrap.js" ></script>
+
+<script type="text/javascript" src="/js/vendors/mdb/mdb.min.js"></script>
+
+<script type="text/javascript" src="/js/main.js"></script>
+
+
+
+  
+  <script src="/js/vendors/highlight.pack.js"> </script>
+  <script>hljs.initHighlightingOnLoad();</script>
+
+
+
+
+ 
+  <script src="/js/vendors/katex/katex.min.js"> </script>
+  <script src="/js/vendors/katex/contrib/auto-render.min.js"></script>
+
+  <script>
+      document.addEventListener("DOMContentLoaded", function () {
+          renderMathInElement(document.body);
+      });
+  </script>
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+  
+  new WOW().init();
+</script>
+
+
+
+
+  </body>
+</html>

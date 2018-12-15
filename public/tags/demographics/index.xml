@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Demographics on Bayesian Politics</title>
+    <link>/tags/demographics/</link>
+    <description>Recent content in Demographics on Bayesian Politics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-CA</language>
+    <lastBuildDate>Tue, 16 Oct 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/demographics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>How was mortality distributed through Puerto Rico after Hurricane Maria?</title>
+      <link>/blog/2018-10/how-was-mortality-distributed-through-puerto-rico-after-hurricane-maria/</link>
+      <pubDate>Tue, 16 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2018-10/how-was-mortality-distributed-through-puerto-rico-after-hurricane-maria/</guid>
+      <description>Context  Hurricane Maria struck Puerto Rico the 20th of September of 2017 at 6:15 a.m. entering through the municipality of Yabucoa as a Category 4 hurricane. According to the governments of Puerto Rico and the U.S. Virgin islands, the cost of the damage is estimated in $102 billion USD1.</description>
+    </item>
+    
+  </channel>
+</rss>

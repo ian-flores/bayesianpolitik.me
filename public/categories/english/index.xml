@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>English on Bayesian Politics</title>
+    <link>/categories/english/</link>
+    <description>Recent content in English on Bayesian Politics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-CA</language>
+    <lastBuildDate>Fri, 16 Nov 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/english/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Feminicides in Latin America and the Caribbean</title>
+      <link>/blog/2018-11/feminicides-in-latin-america-and-the-caribbean/</link>
+      <pubDate>Fri, 16 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2018-11/feminicides-in-latin-america-and-the-caribbean/</guid>
+      <description>Context According to statistics from the Puerto Rico Police Department, reported this week in a newspaper from Puerto Rico, there&amp;rsquo;s been 21 women killed by their partners or ex-partners in 2018 in the island. [1] Feminist collectives have expressed that the total feminicide count is around 40 women. However, how do we define feminicide?</description>
+    </item>
+    
+    <item>
+      <title>Historical Data on Puerto Rico Elections</title>
+      <link>/blog/2018-11/historical-data-on-puerto-rico-elections/</link>
+      <pubDate>Sat, 03 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2018-11/historical-data-on-puerto-rico-elections/</guid>
+      <description>Context I scraped all the historical data from the Puerto Rico&amp;rsquo;s Electoral Commission webpage to make it accesible in a way that can be combined with Census data, as well as other socio-economic indicators to better explain political patterns in Puerto Rico. In the next month I will add as well the elections of 2004, 2008, 2012, 2016, but with a more granual level than municipalities.</description>
+    </item>
+    
+    <item>
+      <title>How was mortality distributed through Puerto Rico after Hurricane Maria?</title>
+      <link>/blog/2018-10/how-was-mortality-distributed-through-puerto-rico-after-hurricane-maria/</link>
+      <pubDate>Tue, 16 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2018-10/how-was-mortality-distributed-through-puerto-rico-after-hurricane-maria/</guid>
+      <description>Context  Hurricane Maria struck Puerto Rico the 20th of September of 2017 at 6:15 a.m. entering through the municipality of Yabucoa as a Category 4 hurricane. According to the governments of Puerto Rico and the U.S. Virgin islands, the cost of the damage is estimated in $102 billion USD1.</description>
+    </item>
+    
+    <item>
+      <title>Why do we as Data Scientists care about how computers communicate?</title>
+      <link>/blog/2018-10/why-do-we-as-data-scientists-care-about-how-computers-communicate/</link>
+      <pubDate>Fri, 05 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2018-10/why-do-we-as-data-scientists-care-about-how-computers-communicate/</guid>
+      <description>You turn on your computer, and connect to the WiFi. You open your browser and remember that you have to pay your credit card. You search for the bank&amp;rsquo;s name and click the first link you see, because the first one is always the correct one. You submit the credit card information and then get an email confirming your payment.</description>
+    </item>
+    
+  </channel>
+</rss>

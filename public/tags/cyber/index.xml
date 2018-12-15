@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cyber on Bayesian Politics</title>
+    <link>/tags/cyber/</link>
+    <description>Recent content in Cyber on Bayesian Politics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-CA</language>
+    <lastBuildDate>Fri, 05 Oct 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/cyber/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Why do we as Data Scientists care about how computers communicate?</title>
+      <link>/blog/2018-10/why-do-we-as-data-scientists-care-about-how-computers-communicate/</link>
+      <pubDate>Fri, 05 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2018-10/why-do-we-as-data-scientists-care-about-how-computers-communicate/</guid>
+      <description>You turn on your computer, and connect to the WiFi. You open your browser and remember that you have to pay your credit card. You search for the bank&amp;rsquo;s name and click the first link you see, because the first one is always the correct one. You submit the credit card information and then get an email confirming your payment.</description>
+    </item>
+    
+  </channel>
+</rss>

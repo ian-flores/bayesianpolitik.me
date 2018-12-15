@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Elections on Bayesian Politics</title>
+    <link>/tags/elections/</link>
+    <description>Recent content in Elections on Bayesian Politics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-CA</language>
+    <lastBuildDate>Sat, 03 Nov 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/elections/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Datos Históricos de las Elecciones en Puerto Rico</title>
+      <link>/blog/2018-11/datos-hist%C3%B3ricos-de-las-elecciones-en-puerto-rico/</link>
+      <pubDate>Sat, 03 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2018-11/datos-hist%C3%B3ricos-de-las-elecciones-en-puerto-rico/</guid>
+      <description>Contexto Descargue todos los datos catalogados como históricos en la página de la Comisión Estatal de Elecciones de Puerto Rico para hacerlos accesible en un formato que pueda ser combinado con datos del Censo, así como otros indicadores socio-económicos para entender mejor los patrones políticos en Puerto Rico. En el próximo mes estare añadiendo los datos de las elecciones de 2004, 2008, 2012, y 2016 pero con mayor detalle espacial que por municipios.</description>
+    </item>
+    
+    <item>
+      <title>Historical Data on Puerto Rico Elections</title>
+      <link>/blog/2018-11/historical-data-on-puerto-rico-elections/</link>
+      <pubDate>Sat, 03 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2018-11/historical-data-on-puerto-rico-elections/</guid>
+      <description>Context I scraped all the historical data from the Puerto Rico&amp;rsquo;s Electoral Commission webpage to make it accesible in a way that can be combined with Census data, as well as other socio-economic indicators to better explain political patterns in Puerto Rico. In the next month I will add as well the elections of 2004, 2008, 2012, 2016, but with a more granual level than municipalities.</description>
+    </item>
+    
+  </channel>
+</rss>

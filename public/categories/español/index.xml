@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Español on Bayesian Politics</title>
+    <link>/categories/espa%C3%B1ol/</link>
+    <description>Recent content in Español on Bayesian Politics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-CA</language>
+    <lastBuildDate>Fri, 16 Nov 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/espa%C3%B1ol/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Feminicidios en Latino América y el Caribe</title>
+      <link>/blog/2018-11/feminicidios-en-latino-am%C3%A9rica-y-el-caribe/</link>
+      <pubDate>Fri, 16 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2018-11/feminicidios-en-latino-am%C3%A9rica-y-el-caribe/</guid>
+      <description>El blog post completo se encuentra aqui: https://www.bayesianpolitik.me/feminicidesLATAM/feminicides_es Debido a limitaciones con el software las graficas y las tablas que van adjuntas al texto solo estan disponibles en el enlace de arriba. Por favor lea el post ahi. La imagen en la parte superior es del libro de Eduardo Galeano &amp;lsquo;Las Venas Abiertas de América Latina&amp;rsquo;.</description>
+    </item>
+    
+    <item>
+      <title>Datos Históricos de las Elecciones en Puerto Rico</title>
+      <link>/blog/2018-11/datos-hist%C3%B3ricos-de-las-elecciones-en-puerto-rico/</link>
+      <pubDate>Sat, 03 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2018-11/datos-hist%C3%B3ricos-de-las-elecciones-en-puerto-rico/</guid>
+      <description>Contexto Descargue todos los datos catalogados como históricos en la página de la Comisión Estatal de Elecciones de Puerto Rico para hacerlos accesible en un formato que pueda ser combinado con datos del Censo, así como otros indicadores socio-económicos para entender mejor los patrones políticos en Puerto Rico. En el próximo mes estare añadiendo los datos de las elecciones de 2004, 2008, 2012, y 2016 pero con mayor detalle espacial que por municipios.</description>
+    </item>
+    
+  </channel>
+</rss>
