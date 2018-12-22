@@ -6,10 +6,19 @@
     <description>Recent content on Bayesian Politics</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-CA</language>
-    <lastBuildDate>Fri, 16 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Dec 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2018 - In review</title>
+      <link>/moment/test/</link>
+      <pubDate>Sat, 22 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/moment/test/</guid>
+      <description> January February  Comienzo trabajo en el Instituto de Estadisticas  March  Official Admission to MDS-UBC  April May  Cominezo trabajo con el PR-VDRS PyCon (Cleveland, OH) CarpentryCon (Dublin, IR) Belfast  June July August  Moved to Vancouver, BC  September  Started UBC  October  MDS courses  November  MDS courses  December  Travel to Ottawa    </description>
+    </item>
     
     <item>
       <title>Feminicides in Latin America and the Caribbean</title>
@@ -63,15 +72,6 @@
       
       <guid>/blog/2018-10/why-do-we-as-data-scientists-care-about-how-computers-communicate/</guid>
       <description>You turn on your computer, and connect to the WiFi. You open your browser and remember that you have to pay your credit card. You search for the bank&amp;rsquo;s name and click the first link you see, because the first one is always the correct one. You submit the credit card information and then get an email confirming your payment.</description>
-    </item>
-    
-    <item>
-      <title>Moment Test</title>
-      <link>/moment/test/</link>
-      <pubDate>Wed, 19 Aug 2015 20:29:37 -0700</pubDate>
-      
-      <guid>/moment/test/</guid>
-      <description>The Hitchhiker&amp;rsquo;s Guide to the Galaxy is a comedy science fiction series created by Douglas Adams. Originally a radio comedy broadcast on BBC Radio 4 in 1978, it was later adapted to other formats, and over several years it gradually became an international multi-media phenomenon. Adaptations have included stage shows, a &amp;ldquo;trilogy&amp;rdquo; of five books published between 1979 and 1992, a sixth novel penned by Eoin Colfer in 2009, a 1981 TV series, a 1984 computer game, and three series of three-part comic book adaptations of the first three novels published by DC Comics between 1993 and 1996.</description>
     </item>
     
   </channel>

@@ -30,3 +30,814 @@ Initialized empty Git repository in /home/kropotkin/Documents/gh/testing_home_pa
 error: src refspec master does not match any.
 error: failed to push some refs to 'git@github.com:ian-flores/static_blog.git'
 ]0;/home/kropotkin/Documents/gh/testing_home_pagekropotkin@kronstadt:~/Documents/gh/testing_home_page$ git add .
+]0;/home/kropotkin/Documents/gh/testing_home_pagekropotkin@kronstadt:~/Documents/gh/testing_home_page$ git commit -m "Initial Upload"
+[master (root-commit) 8cf265a] Initial Upload
+ 797 files changed, 125220 insertions(+)
+ create mode 100644 .Rproj.user/80FBEA61/console06/8E77DB37
+ create mode 100644 .Rproj.user/80FBEA61/console06/8E77DB37.env
+ create mode 100644 .Rproj.user/80FBEA61/console06/INDEX001
+ create mode 100644 .Rproj.user/80FBEA61/sources/prop/13EC0617
+ create mode 100644 .Rproj.user/80FBEA61/sources/prop/153AC5F1
+ create mode 100644 .Rproj.user/80FBEA61/sources/prop/1B0D692C
+ create mode 100644 .Rproj.user/80FBEA61/sources/prop/2BFE754
+ create mode 100644 .Rproj.user/80FBEA61/sources/prop/2E79AC8A
+ create mode 100644 .Rproj.user/80FBEA61/sources/prop/336D2B2
+ create mode 100644 .Rproj.user/80FBEA61/sources/prop/33DADC81
+ create mode 100644 .Rproj.user/80FBEA61/sources/prop/36955D90
+ create mode 100644 .Rproj.user/80FBEA61/sources/prop/476E0EB0
+ create mode 100644 .Rproj.user/80FBEA61/sources/prop/4CA71E4B
+ create mode 100644 .Rproj.user/80FBEA61/sources/prop/50D2829D
+ create mode 100644 .Rproj.user/80FBEA61/sources/prop/56476E2A
+ create mode 100644 .Rproj.user/80FBEA61/sources/prop/607DC978
+ create mode 100644 .Rproj.user/80FBEA61/sources/prop/6611F591
+ create mode 100644 .Rproj.user/80FBEA61/sources/prop/6695405C
+ create mode 100644 .Rproj.user/80FBEA61/sources/prop/6743DAE2
+ create mode 100644 .Rproj.user/80FBEA61/sources/prop/6BE2E7DC
+ create mode 100644 .Rproj.user/80FBEA61/sources/prop/758F18CF
+ create mode 100644 .Rproj.user/80FBEA61/sources/prop/7ABDF911
+ create mode 100644 .Rproj.user/80FBEA61/sources/prop/7FE80F1A
+ create mode 100644 .Rproj.user/80FBEA61/sources/prop/836D0CAF
+ create mode 100644 .Rproj.user/80FBEA61/sources/prop/8904226
+ create mode 100644 .Rproj.user/80FBEA61/sources/prop/970B89EC
+ create mode 100644 .Rproj.user/80FBEA61/sources/prop/9BA42A6F
+ create mode 100644 .Rproj.user/80FBEA61/sources/prop/9CC30C3
+ create mode 100644 .Rproj.user/80FBEA61/sources/prop/A6C62723
+ create mode 100644 .Rproj.user/80FBEA61/sources/prop/B8387712
+ create mode 100644 .Rproj.user/80FBEA61/sources/prop/BD8AC5E6
+ create mode 100644 .Rproj.user/80FBEA61/sources/prop/C3139529
+ create mode 100644 .Rproj.user/80FBEA61/sources/prop/C8A7FCA8
+ create mode 100644 .Rproj.user/80FBEA61/sources/prop/D64F0E90
+ create mode 100644 .Rproj.user/80FBEA61/sources/prop/D65A2D9E
+ create mode 100644 .Rproj.user/80FBEA61/sources/prop/DB50D365
+ create mode 100644 .Rproj.user/80FBEA61/sources/prop/INDEX
+ create mode 100644 .Rproj.user/80FBEA61/sources/s-90DF04EA/1158C62-contents
+ create mode 100644 .Rproj.user/80FBEA61/sources/s-90DF04EA/116A20E2-contents
+ create mode 100644 .Rproj.user/80FBEA61/sources/s-90DF04EA/170D5D89-contents
+ create mode 100644 .Rproj.user/80FBEA61/sources/s-90DF04EA/1A64CB14-contents
+ create mode 100644 .Rproj.user/80FBEA61/sources/s-90DF04EA/1AA12228-contents
+ create mode 100644 .Rproj.user/80FBEA61/sources/s-90DF04EA/1BAB0279-contents
+ create mode 100644 .Rproj.user/80FBEA61/sources/s-90DF04EA/2079B0FE-contents
+ create mode 100644 .Rproj.user/80FBEA61/sources/s-90DF04EA/25796D43-contents
+ create mode 100644 .Rproj.user/80FBEA61/sources/s-90DF04EA/491028D6-contents
+ create mode 100644 .Rproj.user/80FBEA61/sources/s-90DF04EA/4A271796
+ create mode 100644 .Rproj.user/80FBEA61/sources/s-90DF04EA/4A271796-contents
+ create mode 100644 .Rproj.user/80FBEA61/sources/s-90DF04EA/4AAD0D4D-contents
+ create mode 100644 .Rproj.user/80FBEA61/sources/s-90DF04EA/4D039E7-contents
+ create mode 100644 .Rproj.user/80FBEA61/sources/s-90DF04EA/51593533-contents
+ create mode 100644 .Rproj.user/80FBEA61/sources/s-90DF04EA/5270477E-contents
+ create mode 100644 .Rproj.user/80FBEA61/sources/s-90DF04EA/554F031B-contents
+ create mode 100644 .Rproj.user/80FBEA61/sources/s-90DF04EA/5DF4B4C4-contents
+ create mode 100644 .Rproj.user/80FBEA61/sources/s-90DF04EA/72A03D21-contents
+ create mode 100644 .Rproj.user/80FBEA61/sources/s-90DF04EA/73585E1A-contents
+ create mode 100644 .Rproj.user/80FBEA61/sources/s-90DF04EA/74A81E77-contents
+ create mode 100644 .Rproj.user/80FBEA61/sources/s-90DF04EA/77FA47CC-contents
+ create mode 100644 .Rproj.user/80FBEA61/sources/s-90DF04EA/7957F088
+ create mode 100644 .Rproj.user/80FBEA61/sources/s-90DF04EA/7957F088-contents
+ create mode 100644 .Rproj.user/80FBEA61/sources/s-90DF04EA/7F4AACDE-contents
+ create mode 100644 .Rproj.user/80FBEA61/sources/s-90DF04EA/842AE19E-contents
+ create mode 100644 .Rproj.user/80FBEA61/sources/s-90DF04EA/85203B11-contents
+ create mode 100644 .Rproj.user/80FBEA61/sources/s-90DF04EA/87884985-contents
+ create mode 100644 .Rproj.user/80FBEA61/sources/s-90DF04EA/8861FD1C-contents
+ create mode 100644 .Rproj.user/80FBEA61/sources/s-90DF04EA/8A19C21D-contents
+ create mode 100644 .Rproj.user/80FBEA61/sources/s-90DF04EA/8B997B3-contents
+ create mode 100644 .Rproj.user/80FBEA61/sources/s-90DF04EA/8D57F388-contents
+ create mode 100644 .Rproj.user/80FBEA61/sources/s-90DF04EA/8F51D91B-contents
+ create mode 100644 .Rproj.user/80FBEA61/sources/s-90DF04EA/8FF565BB-contents
+ create mode 100644 .Rproj.user/80FBEA61/sources/s-90DF04EA/95180FBD-contents
+ create mode 100644 .Rproj.user/80FBEA61/sources/s-90DF04EA/9862B448-contents
+ create mode 100644 .Rproj.user/80FBEA61/sources/s-90DF04EA/A34A4F5C-contents
+ create mode 100644 .Rproj.user/80FBEA61/sources/s-90DF04EA/A9671182-contents
+ create mode 100644 .Rproj.user/80FBEA61/sources/s-90DF04EA/AE3E640C-contents
+ create mode 100644 .Rproj.user/80FBEA61/sources/s-90DF04EA/BB01FE9-contents
+ create mode 100644 .Rproj.user/80FBEA61/sources/s-90DF04EA/C56EE3C0-contents
+ create mode 100644 .Rproj.user/80FBEA61/sources/s-90DF04EA/C76896D1-contents
+ create mode 100644 .Rproj.user/80FBEA61/sources/s-90DF04EA/DA11E83B-contents
+ create mode 100644 .Rproj.user/80FBEA61/sources/s-90DF04EA/DC77CC54-contents
+ create mode 100644 .Rproj.user/80FBEA61/sources/s-90DF04EA/E294CCE2-contents
+ create mode 100644 .Rproj.user/80FBEA61/sources/s-90DF04EA/EDED8482-contents
+ create mode 100644 .Rproj.user/80FBEA61/sources/s-90DF04EA/F6CAF367-contents
+ create mode 100644 .Rproj.user/80FBEA61/sources/s-90DF04EA/FBE1119E-contents
+ create mode 100644 .Rproj.user/80FBEA61/sources/s-90DF04EA/FC69DEB1-contents
+ create mode 100644 .Rproj.user/80FBEA61/sources/s-90DF04EA/FF2709B0-contents
+ create mode 100644 .Rproj.user/80FBEA61/sources/s-90DF04EA/lock_file
+ create mode 100644 .Rproj.user/shared/notebooks/3A1EC4D4-feminicides_es/1/s/chunks.json
+ create mode 100644 .Rproj.user/shared/notebooks/3EFAE0FC-feminicides_en/1/80FBEA6190DF04EA/chunks.json
+ create mode 100644 .Rproj.user/shared/notebooks/3EFAE0FC-feminicides_en/1/s/chunks.json
+ create mode 100644 .Rproj.user/shared/notebooks/7C5DB4AD-feminicides_en/1/s/chunks.json
+ create mode 100644 .Rproj.user/shared/notebooks/patch-chunk-names
+ create mode 100644 .Rproj.user/shared/notebooks/paths
+ create mode 100644 config.toml
+ create mode 100644 content/about/_index.md
+ create mode 100644 content/blog/_index.md
+ create mode 100644 content/blog/analysis_hurricane.md
+ create mode 100644 content/blog/elecciones_historicas.md
+ create mode 100644 content/blog/feminicides_en.md
+ create mode 100644 content/blog/feminicides_es.md
+ create mode 100644 content/blog/historical_elections.md
+ create mode 100644 content/blog/networks_DS.md
+ create mode 100644 content/moment/_index.md
+ create mode 100644 content/moment/test.md
+ create mode 100644 data/series.toml
+ create mode 100644 index.Rmd
+ create mode 100644 layouts/shortcodes/bgstyle.html
+ create mode 100644 layouts/shortcodes/color.html
+ create mode 100644 public/404.html
+ create mode 100644 public/about/index.html
+ create mode 100644 public/about/index.xml
+ create mode 100644 public/about/page/1/index.html
+ create mode 100644 public/blog/1-01/feminicides-in-latin-america-and-the-caribbean/index.html
+ create mode 100644 public/blog/1-01/index.html
+ create mode 100644 public/blog/1-01/why-do-we-as-data-scientists-care-about-how-computers-communicate/index.html
+ create mode 100644 public/blog/2015-07-23-r-rmarkdown.Rmd
+ create mode 100644 public/blog/2015-07-23-r-rmarkdown_files/figure-html/pie-1.png
+ create mode 100644 public/blog/2015-07/hello-r-markdown/index.html
+ create mode 100644 "public/blog/2018-01/mac\345\260\217\347\231\275\346\216\242\347\264\242\350\256\2601-\345\237\272\346\234\254\350\256\276\347\275\256\344\270\216\345\270\270\347\224\250\350\275\257\344\273\266/index.html"
+ create mode 100644 "public/blog/2018-01/mac\345\260\217\347\231\275\346\216\242\347\264\242\350\256\2602-finder\350\256\276\347\275\256/index.html"
+ create mode 100644 "public/blog/2018-03/blog\345\205\273\346\210\220\350\256\2607-hugo\345\244\232\347\272\247\345\210\227\350\241\250\346\227\240\346\263\225\346\230\276\347\244\272-markdown\347\232\204bug\345\220\210\351\233\206/index.html"
+ create mode 100644 "public/blog/2018-05/\344\270\255\346\226\207\347\211\210\351\237\263\344\271\220\345\211\247\351\225\277\350\205\277\345\217\224\345\217\224repo/index.html"
+ create mode 100644 "public/blog/2018-05/\347\210\261\345\260\224\345\205\260\350\270\242\350\270\217\350\210\236\347\216\213\350\200\205\344\271\213\350\210\236\345\215\261\351\231\251\346\270\270\346\210\217/index.html"
+ create mode 100644 "public/blog/2018-05/\347\216\260\345\256\236\344\270\216\345\271\273\346\203\263\347\232\204\350\267\235\347\246\273\350\247\202\346\267\261\345\244\234\345\260\217\347\213\227\347\246\273\345\245\207\344\272\213\344\273\266repo\346\204\237\346\203\263/index.html"
+ create mode 100644 "public/blog/2018-08/blog\345\205\273\346\210\220\350\256\26011-\347\273\231\347\275\221\347\253\231\345\212\240\344\270\252\345\260\217icon/index.html"
+ create mode 100644 "public/blog/2018-08/blog\345\205\273\346\210\220\350\256\26014-\350\256\251\345\220\214\351\241\265\346\273\232\345\212\250\346\233\264\345\271\263\346\273\221/index.html"
+ create mode 100644 public/blog/2018-08/why-do-we-as-data-scientists-care-about-how-computers-communicate/index.html
+ create mode 100644 "public/blog/2018-08/\345\211\215\347\253\257\350\257\225\346\260\2641-\345\211\215\347\253\257\346\212\200\346\234\257\350\267\257\347\272\277/index.html"
+ create mode 100644 "public/blog/2018-08/\345\211\215\347\253\257\350\257\225\346\260\2642-\344\275\277\347\224\250docker\351\225\234\345\203\217\347\232\204sass\351\205\215\347\275\256/index.html"
+ create mode 100644 "public/blog/2018-08/\351\237\263\344\271\220\345\211\247catrepo/index.html"
+ create mode 100644 public/blog/2018-10/how-was-mortality-distributed-through-puerto-rico-after-hurricane-maria/index.html
+ create mode 100644 public/blog/2018-10/why-do-we-as-data-scientists-care-about-how-computers-communicate/index.html
+ create mode 100644 "public/blog/2018-11/datos-hist\303\263ricos-de-las-elecciones-en-puerto-rico/index.html"
+ create mode 100644 public/blog/2018-11/feminicides-in-latin-america-and-the-caribbean/index.html
+ create mode 100644 "public/blog/2018-11/feminicidios-en-latino-am\303\251rica-y-el-caribe/index.html"
+ create mode 100644 public/blog/2018-11/historical-data-on-puerto-rico-elections/index.html
+ create mode 100644 public/blog/feminicidesLATAM/LICENSE
+ create mode 100644 public/blog/feminicidesLATAM/data/caribbean_countries.csv
+ create mode 100644 public/blog/feminicidesLATAM/data/caribbean_countries.feather
+ create mode 100644 public/blog/feminicidesLATAM/data/central-america_countries.csv
+ create mode 100644 public/blog/feminicidesLATAM/data/central-america_countries.feather
+ create mode 100644 public/blog/feminicidesLATAM/data/continental-latam_countries.csv
+ create mode 100644 public/blog/feminicidesLATAM/data/continental-latam_countries.feather
+ create mode 100644 public/blog/feminicidesLATAM/data_downloader.R
+ create mode 100644 public/blog/feminicidesLATAM/feminicidesCaribbean.Rproj
+ create mode 100644 public/blog/feminicidesLATAM/feminicides_es_files/figure-html/widgets/datatables_libs/crosstalk-1.0.0/css/crosstalk.css
+ create mode 100644 public/blog/feminicidesLATAM/feminicides_es_files/figure-html/widgets/datatables_libs/crosstalk-1.0.0/js/crosstalk.js
+ create mode 100644 public/blog/feminicidesLATAM/feminicides_es_files/figure-html/widgets/datatables_libs/crosstalk-1.0.0/js/crosstalk.js.map
+ create mode 100644 public/blog/feminicidesLATAM/feminicides_es_files/figure-html/widgets/datatables_libs/crosstalk-1.0.0/js/crosstalk.min.js
+ create mode 100644 public/blog/feminicidesLATAM/feminicides_es_files/figure-html/widgets/datatables_libs/crosstalk-1.0.0/js/crosstalk.min.js.map
+ create mode 100644 public/blog/feminicidesLATAM/feminicides_es_files/figure-html/widgets/datatables_libs/crosstalk/css/crosstalk.css
+ create mode 100644 public/blog/feminicidesLATAM/feminicides_es_files/figure-html/widgets/datatables_libs/crosstalk/js/crosstalk.js
+ create mode 100644 public/blog/feminicidesLATAM/feminicides_es_files/figure-html/widgets/datatables_libs/crosstalk/js/crosstalk.js.map
+ create mode 100644 public/blog/feminicidesLATAM/feminicides_es_files/figure-html/widgets/datatables_libs/crosstalk/js/crosstalk.min.js
+ create mode 100644 public/blog/feminicidesLATAM/feminicides_es_files/figure-html/widgets/datatables_libs/crosstalk/js/crosstalk.min.js.map
+ create mode 100644 public/blog/feminicidesLATAM/feminicides_es_files/figure-html/widgets/datatables_libs/datatables-binding-0.4/datatables.js
+ create mode 100644 public/blog/feminicidesLATAM/feminicides_es_files/figure-html/widgets/datatables_libs/datatables-binding/datatables.js
+ create mode 100644 public/blog/feminicidesLATAM/feminicides_es_files/figure-html/widgets/datatables_libs/datatables-css-0.0.0/datatables-crosstalk.css
+ create mode 100644 public/blog/feminicidesLATAM/feminicides_es_files/figure-html/widgets/datatables_libs/datatables-css/datatables-crosstalk.css
+ create mode 100644 public/blog/feminicidesLATAM/feminicides_es_files/figure-html/widgets/datatables_libs/dt-core-1.10.16/css/jquery.dataTables.extra.css
+ create mode 100644 public/blog/feminicidesLATAM/feminicides_es_files/figure-html/widgets/datatables_libs/dt-core-1.10.16/css/jquery.dataTables.min.css
+ create mode 100644 public/blog/feminicidesLATAM/feminicides_es_files/figure-html/widgets/datatables_libs/dt-core-1.10.16/js/jquery.dataTables.min.js
+ create mode 100644 public/blog/feminicidesLATAM/feminicides_es_files/figure-html/widgets/datatables_libs/dt-core/css/jquery.dataTables.extra.css
+ create mode 100644 public/blog/feminicidesLATAM/feminicides_es_files/figure-html/widgets/datatables_libs/dt-core/css/jquery.dataTables.min.css
+ create mode 100644 public/blog/feminicidesLATAM/feminicides_es_files/figure-html/widgets/datatables_libs/dt-core/js/jquery.dataTables.min.js
+ create mode 100644 public/blog/feminicidesLATAM/feminicides_es_files/figure-html/widgets/datatables_libs/dt-ext-buttons-1.10.16/css/buttons.dataTables.min.css
+ create mode 100644 public/blog/feminicidesLATAM/feminicides_es_files/figure-html/widgets/datatables_libs/dt-ext-buttons-1.10.16/js/buttons.colVis.min.js
+ create mode 100644 public/blog/feminicidesLATAM/feminicides_es_files/figure-html/widgets/datatables_libs/dt-ext-buttons-1.10.16/js/buttons.flash.min.js
+ create mode 100644 public/blog/feminicidesLATAM/feminicides_es_files/figure-html/widgets/datatables_libs/dt-ext-buttons-1.10.16/js/buttons.html5.min.js
+ create mode 100644 public/blog/feminicidesLATAM/feminicides_es_files/figure-html/widgets/datatables_libs/dt-ext-buttons-1.10.16/js/buttons.print.min.js
+ create mode 100644 public/blog/feminicidesLATAM/feminicides_es_files/figure-html/widgets/datatables_libs/dt-ext-buttons-1.10.16/js/dataTables.buttons.min.js
+ create mode 100644 public/blog/feminicidesLATAM/feminicides_es_files/figure-html/widgets/datatables_libs/dt-ext-buttons/css/buttons.dataTables.min.css
+ create mode 100644 public/blog/feminicidesLATAM/feminicides_es_files/figure-html/widgets/datatables_libs/dt-ext-buttons/js/buttons.colVis.min.js
+ create mode 100644 public/blog/feminicidesLATAM/feminicides_es_files/figure-html/widgets/datatables_libs/dt-ext-buttons/js/buttons.flash.min.js
+ create mode 100644 public/blog/feminicidesLATAM/feminicides_es_files/figure-html/widgets/datatables_libs/dt-ext-buttons/js/buttons.html5.min.js
+ create mode 100644 public/blog/feminicidesLATAM/feminicides_es_files/figure-html/widgets/datatables_libs/dt-ext-buttons/js/buttons.print.min.js
+ create mode 100644 public/blog/feminicidesLATAM/feminicides_es_files/figure-html/widgets/datatables_libs/dt-ext-buttons/js/dataTables.buttons.min.js
+ create mode 100644 public/blog/feminicidesLATAM/feminicides_es_files/figure-html/widgets/datatables_libs/dt-ext-responsive-1.10.16/css/responsive.dataTables.min.css
+ create mode 100644 public/blog/feminicidesLATAM/feminicides_es_files/figure-html/widgets/datatables_libs/dt-ext-responsive-1.10.16/js/dataTables.responsive.min.js
+ create mode 100644 public/blog/feminicidesLATAM/feminicides_es_files/figure-html/widgets/datatables_libs/dt-ext-responsive/css/responsive.dataTables.min.css
+ create mode 100644 public/blog/feminicidesLATAM/feminicides_es_files/figure-html/widgets/datatables_libs/dt-ext-responsive/js/dataTables.responsive.min.js
+ create mode 100644 public/blog/feminicidesLATAM/feminicides_es_files/figure-html/widgets/datatables_libs/htmlwidgets-1.3/htmlwidgets.js
+ create mode 100644 public/blog/feminicidesLATAM/feminicides_es_files/figure-html/widgets/datatables_libs/htmlwidgets/htmlwidgets.js
+ create mode 100644 public/blog/feminicidesLATAM/feminicides_es_files/figure-html/widgets/datatables_libs/jquery-1.12.4/LICENSE.txt
+ create mode 100644 public/blog/feminicidesLATAM/feminicides_es_files/figure-html/widgets/datatables_libs/jquery-1.12.4/jquery.min.js
+ create mode 100644 public/blog/feminicidesLATAM/feminicides_es_files/figure-html/widgets/datatables_libs/jquery/LICENSE.txt
+ create mode 100644 public/blog/feminicidesLATAM/feminicides_es_files/figure-html/widgets/datatables_libs/jquery/jquery.min.js
+ create mode 100644 public/blog/feminicidesLATAM/feminicides_es_files/figure-html/widgets/datatables_libs/nouislider-7.0.10/jquery.nouislider.min.css
+ create mode 100644 public/blog/feminicidesLATAM/feminicides_es_files/figure-html/widgets/datatables_libs/nouislider-7.0.10/jquery.nouislider.min.js
+ create mode 100644 public/blog/feminicidesLATAM/feminicides_es_files/figure-html/widgets/datatables_libs/nouislider/jquery.nouislider.min.css
+ create mode 100644 public/blog/feminicidesLATAM/feminicides_es_files/figure-html/widgets/datatables_libs/nouislider/jquery.nouislider.min.js
+ create mode 100644 public/blog/feminicidesLATAM/feminicides_es_files/figure-html/widgets/datatables_libs/pdfmake-1.10.16/pdfmake.min.js
+ create mode 100644 public/blog/feminicidesLATAM/feminicides_es_files/figure-html/widgets/datatables_libs/pdfmake-1.10.16/vfs_fonts.js
+ create mode 100644 public/blog/feminicidesLATAM/feminicides_es_files/figure-html/widgets/datatables_libs/pdfmake/pdfmake.min.js
+ create mode 100644 public/blog/feminicidesLATAM/feminicides_es_files/figure-html/widgets/datatables_libs/pdfmake/vfs_fonts.js
+ create mode 100644 public/blog/feminicidesLATAM/feminicides_es_files/figure-html/widgets/datatables_libs/pymjs-1.3.2/pym.v1.js
+ create mode 100644 public/blog/feminicidesLATAM/feminicides_es_files/figure-html/widgets/datatables_libs/pymjs-1.3.2/pym.v1.min.js
+ create mode 100644 public/blog/feminicidesLATAM/feminicides_es_files/figure-html/widgets/datatables_libs/pymjs/pym.v1.js
+ create mode 100644 public/blog/feminicidesLATAM/feminicides_es_files/figure-html/widgets/datatables_libs/pymjs/pym.v1.min.js
+ create mode 100644 public/blog/feminicidesLATAM/feminicides_es_files/figure-html/widgets/datatables_libs/selectize-0.12.0/selectize.bootstrap3.css
+ create mode 100644 public/blog/feminicidesLATAM/feminicides_es_files/figure-html/widgets/datatables_libs/selectize-0.12.0/selectize.min.js
+ create mode 100644 public/blog/feminicidesLATAM/feminicides_es_files/figure-html/widgets/datatables_libs/selectize/selectize.bootstrap3.css
+ create mode 100644 public/blog/feminicidesLATAM/feminicides_es_files/figure-html/widgets/datatables_libs/selectize/selectize.min.js
+ create mode 100644 public/blog/feminicidesLATAM/feminicides_es_files/figure-html/widgets/widget_unnamed-chunk-2.html
+ create mode 100644 public/blog/feminicidesLATAM/results/bar_caribbean_countries.svg
+ create mode 100644 public/blog/feminicidesLATAM/results/bar_central-america_countries.svg
+ create mode 100644 public/blog/feminicidesLATAM/results/bar_continental-latam_countries.svg
+ create mode 100644 public/blog/feminicidesLATAM/results/es_bar_caribbean_countries.svg
+ create mode 100644 public/blog/feminicidesLATAM/results/es_bar_central-america_countries.svg
+ create mode 100644 public/blog/feminicidesLATAM/results/es_bar_continental-latam_countries.svg
+ create mode 100644 public/blog/feminicidesLATAM/results/es_line_caribbean_countries.svg
+ create mode 100644 public/blog/feminicidesLATAM/results/es_line_central-america_countries.svg
+ create mode 100644 public/blog/feminicidesLATAM/results/es_line_continental-latam_countries.svg
+ create mode 100644 public/blog/feminicidesLATAM/results/line_caribbean_countries.svg
+ create mode 100644 public/blog/feminicidesLATAM/results/line_central-america_countries.svg
+ create mode 100644 public/blog/feminicidesLATAM/results/line_continental-latam_countries.svg
+ create mode 100644 public/blog/feminicidesLATAM/src/get_all_indicators.R
+ create mode 100644 public/blog/feminicidesLATAM/src/get_country_id.R
+ create mode 100644 public/blog/feminicidesLATAM/src/get_data.R
+ create mode 100644 public/blog/feminicidesLATAM/src/get_indicator_response.R
+ create mode 100644 public/blog/feminicidesLATAM/src/save_results_en.R
+ create mode 100644 public/blog/feminicidesLATAM/src/save_results_es.R
+ create mode 100644 public/blog/index.html
+ create mode 100644 public/blog/index.xml
+ create mode 100644 public/blog/page/1/index.html
+ create mode 100644 public/blog/page/2/index.html
+ create mode 100644 public/blog/page/3/index.html
+ create mode 100644 public/blog/page/4/index.html
+ create mode 100644 public/categories/english/index.html
+ create mode 100644 public/categories/english/index.xml
+ create mode 100644 "public/categories/espa\303\261ol/index.html"
+ create mode 100644 "public/categories/espa\303\261ol/index.xml"
+ create mode 100644 public/categories/index.html
+ create mode 100644 public/categories/index.xml
+ create mode 100644 public/categories/r/index.html
+ create mode 100644 public/categories/r/index.xml
+ create mode 100644 public/categories/test/index.html
+ create mode 100644 public/categories/test/index.xml
+ create mode 100644 "public/categories/\345\223\201\351\211\264\350\257\204\350\256\272/index.html"
+ create mode 100644 "public/categories/\345\223\201\351\211\264\350\257\204\350\256\272/index.xml"
+ create mode 100644 "public/categories/\346\235\202\346\212\200\346\265\205\345\260\235/index.html"
+ create mode 100644 "public/categories/\346\235\202\346\212\200\346\265\205\345\260\235/index.xml"
+ create mode 100644 public/css/font.css
+ create mode 100644 public/css/main.css
+ create mode 100644 public/css/vendors-extensions/fontawesome/all.min.css
+ create mode 100644 public/css/vendors-extensions/mdb/mdb.css
+ create mode 100644 public/css/vendors-extensions/mdb/mdb.min.css
+ create mode 100644 public/css/vendors/bootstrap4/bootstrap.min.css
+ create mode 100644 public/css/vendors/highlight/github-gist.css
+ create mode 100644 public/css/vendors/mdb/mdb.min.css
+ create mode 100644 public/css/vendors/mdb/style.min.css
+ create mode 100644 public/fonts/fontawesome/fa-brands-400.eot
+ create mode 100644 public/fonts/fontawesome/fa-brands-400.svg
+ create mode 100644 public/fonts/fontawesome/fa-brands-400.ttf
+ create mode 100644 public/fonts/fontawesome/fa-brands-400.woff
+ create mode 100644 public/fonts/fontawesome/fa-brands-400.woff2
+ create mode 100644 public/fonts/fontawesome/fa-regular-400.eot
+ create mode 100644 public/fonts/fontawesome/fa-regular-400.svg
+ create mode 100644 public/fonts/fontawesome/fa-regular-400.ttf
+ create mode 100644 public/fonts/fontawesome/fa-regular-400.woff
+ create mode 100644 public/fonts/fontawesome/fa-regular-400.woff2
+ create mode 100644 public/fonts/fontawesome/fa-solid-900.eot
+ create mode 100644 public/fonts/fontawesome/fa-solid-900.svg
+ create mode 100644 public/fonts/fontawesome/fa-solid-900.ttf
+ create mode 100644 public/fonts/fontawesome/fa-solid-900.woff
+ create mode 100644 public/fonts/fontawesome/fa-solid-900.woff2
+ create mode 100644 public/images/blog/2018-08/test1.jpg
+ create mode 100644 public/images/blog/2018-08/test3.jpg
+ create mode 100644 public/images/blog/2018-08/test4.jpg
+ create mode 100644 public/images/blog/2018-08/test5.jpg
+ create mode 100644 public/images/blog/2018-10/networks.png
+ create mode 100644 public/images/blog/2018-10/puerto_rico_death_choropleth.png
+ create mode 100644 public/images/blog/2018-11/capitol_pr.jpg
+ create mode 100644 public/images/blog/2018-11/latin_america.jpg
+ create mode 100644 "public/images/series/Mac\345\260\217\347\231\275\346\216\242\347\264\242\350\256\260/1/Amphetamine.jpg"
+ create mode 100644 "public/images/series/Mac\345\260\217\347\231\275\346\216\242\347\264\242\350\256\260/1/Cheatsheet.jpg"
+ create mode 100644 "public/images/series/Mac\345\260\217\347\231\275\346\216\242\347\264\242\350\256\260/1/Code.jpg"
+ create mode 100644 "public/images/series/Mac\345\260\217\347\231\275\346\216\242\347\264\242\350\256\260/1/Docker.jpg"
+ create mode 100644 "public/images/series/Mac\345\260\217\347\231\275\346\216\242\347\264\242\350\256\260/1/Little-Snitch.jpg"
+ create mode 100644 "public/images/series/Mac\345\260\217\347\231\275\346\216\242\347\264\242\350\256\260/1/NoSleep.jpg"
+ create mode 100644 "public/images/series/Mac\345\260\217\347\231\275\346\216\242\347\264\242\350\256\260/1/PyCharm.jpg"
+ create mode 100644 "public/images/series/Mac\345\260\217\347\231\275\346\216\242\347\264\242\350\256\260/1/SPlayerX.jpg"
+ create mode 100644 "public/images/series/Mac\345\260\217\347\231\275\346\216\242\347\264\242\350\256\260/1/Spectacle.jpg"
+ create mode 100644 "public/images/series/Mac\345\260\217\347\231\275\346\216\242\347\264\242\350\256\260/1/Sublime-Text.jpg"
+ create mode 100644 "public/images/series/Mac\345\260\217\347\231\275\346\216\242\347\264\242\350\256\260/1/Windscribe.jpg"
+ create mode 100644 "public/images/series/Mac\345\260\217\347\231\275\346\216\242\347\264\242\350\256\260/1/config-privacy-source.jpg"
+ create mode 100644 "public/images/series/Mac\345\260\217\347\231\275\346\216\242\347\264\242\350\256\260/1/open-emoji-view.jpg"
+ create mode 100644 "public/images/series/Mac\345\260\217\347\231\275\346\216\242\347\264\242\350\256\260/1/touchbar-config.jpg"
+ create mode 100644 "public/images/series/Mac\345\260\217\347\231\275\346\216\242\347\264\242\350\256\260/1/unarchiver.jpg"
+ create mode 100644 "public/images/series/Mac\345\260\217\347\231\275\346\216\242\347\264\242\350\256\260/1/vlc.jpg"
+ create mode 100644 "public/images/series/Mac\345\260\217\347\231\275\346\216\242\347\264\242\350\256\260/1/vuze.jpg"
+ create mode 100644 "public/images/series/Mac\345\260\217\347\231\275\346\216\242\347\264\242\350\256\260/2/Automator.jpg"
+ create mode 100644 "public/images/series/Mac\345\260\217\347\231\275\346\216\242\347\264\242\350\256\260/2/Go2Shell.jpg"
+ create mode 100644 "public/images/series/Mac\345\260\217\347\231\275\346\216\242\347\264\242\350\256\260/2/add-app.jpg"
+ create mode 100644 "public/images/series/Mac\345\260\217\347\231\275\346\216\242\347\264\242\350\256\260/2/application.jpg"
+ create mode 100644 "public/images/series/Mac\345\260\217\347\231\275\346\216\242\347\264\242\350\256\260/2/change-icon.jpg"
+ create mode 100644 "public/images/series/Mac\345\260\217\347\231\275\346\216\242\347\264\242\350\256\260/2/finder-toolbox.jpg"
+ create mode 100644 "public/images/series/Mac\345\260\217\347\231\275\346\216\242\347\264\242\350\256\260/2/finder-view.jpg"
+ create mode 100644 "public/images/series/Mac\345\260\217\347\231\275\346\216\242\347\264\242\350\256\260/2/go2shell-finder.jpg"
+ create mode 100644 "public/images/series/Mac\345\260\217\347\231\275\346\216\242\347\264\242\350\256\260/2/go2shell-toolbox.jpg"
+ create mode 100644 "public/images/series/Mac\345\260\217\347\231\275\346\216\242\347\264\242\350\256\260/2/new-application.jpg"
+ create mode 100644 "public/images/series/Mac\345\260\217\347\231\275\346\216\242\347\264\242\350\256\260/2/open-terminal.jpg"
+ create mode 100644 "public/images/series/Mac\345\260\217\347\231\275\346\216\242\347\264\242\350\256\260/2/run-script.jpg"
+ create mode 100644 "public/images/series/Mac\345\260\217\347\231\275\346\216\242\347\264\242\350\256\260/2/save-script.jpg"
+ create mode 100644 "public/images/series/Mac\345\260\217\347\231\275\346\216\242\347\264\242\350\256\260/2/service-open-terminal.jpg"
+ create mode 100644 public/img/default.jpg
+ create mode 100644 public/img/header-slides/raw_1515691746.jpg
+ create mode 100644 public/img/header-slides/raw_1515847341.jpg
+ create mode 100644 public/img/mask/circle.svg
+ create mode 100644 public/img/profile.jpg
+ create mode 100644 public/img/svg/arrow_left.svg
+ create mode 100644 public/img/svg/arrow_right.svg
+ create mode 100644 public/img/zheng.png
+ create mode 100644 public/index.html
+ create mode 100644 public/index.xml
+ create mode 100644 public/js/main.js
+ create mode 100644 public/js/vendors-extensions/bootstrap4/bootstrap.js
+ create mode 100644 public/js/vendors/highlight.pack.js
+ create mode 100644 public/js/vendors/holder.min.js
+ create mode 100644 public/js/vendors/jquery/jquery-3.3.1.min.js
+ create mode 100644 public/js/vendors/jquery/jquery.smooth-scroll.min.js
+ create mode 100644 public/js/vendors/katex/contrib/auto-render.js
+ create mode 100644 public/js/vendors/katex/contrib/auto-render.min.js
+ create mode 100644 public/js/vendors/katex/contrib/copy-tex.css
+ create mode 100644 public/js/vendors/katex/contrib/copy-tex.js
+ create mode 100644 public/js/vendors/katex/contrib/copy-tex.min.css
+ create mode 100644 public/js/vendors/katex/contrib/copy-tex.min.js
+ create mode 100644 public/js/vendors/katex/contrib/mathtex-script-type.js
+ create mode 100644 public/js/vendors/katex/contrib/mathtex-script-type.min.js
+ create mode 100644 public/js/vendors/katex/fonts/KaTeX_AMS-Regular.ttf
+ create mode 100644 public/js/vendors/katex/fonts/KaTeX_AMS-Regular.woff
+ create mode 100644 public/js/vendors/katex/fonts/KaTeX_AMS-Regular.woff2
+ create mode 100644 public/js/vendors/katex/fonts/KaTeX_Caligraphic-Bold.ttf
+ create mode 100644 public/js/vendors/katex/fonts/KaTeX_Caligraphic-Bold.woff
+ create mode 100644 public/js/vendors/katex/fonts/KaTeX_Caligraphic-Bold.woff2
+ create mode 100644 public/js/vendors/katex/fonts/KaTeX_Caligraphic-Regular.ttf
+ create mode 100644 public/js/vendors/katex/fonts/KaTeX_Caligraphic-Regular.woff
+ create mode 100644 public/js/vendors/katex/fonts/KaTeX_Caligraphic-Regular.woff2
+ create mode 100644 public/js/vendors/katex/fonts/KaTeX_Fraktur-Bold.ttf
+ create mode 100644 public/js/vendors/katex/fonts/KaTeX_Fraktur-Bold.woff
+ create mode 100644 public/js/vendors/katex/fonts/KaTeX_Fraktur-Bold.woff2
+ create mode 100644 public/js/vendors/katex/fonts/KaTeX_Fraktur-Regular.ttf
+ create mode 100644 public/js/vendors/katex/fonts/KaTeX_Fraktur-Regular.woff
+ create mode 100644 public/js/vendors/katex/fonts/KaTeX_Fraktur-Regular.woff2
+ create mode 100644 public/js/vendors/katex/fonts/KaTeX_Main-Bold.ttf
+ create mode 100644 public/js/vendors/katex/fonts/KaTeX_Main-Bold.woff
+ create mode 100644 public/js/vendors/katex/fonts/KaTeX_Main-Bold.woff2
+ create mode 100644 public/js/vendors/katex/fonts/KaTeX_Main-BoldItalic.ttf
+ create mode 100644 public/js/vendors/katex/fonts/KaTeX_Main-BoldItalic.woff
+ create mode 100644 public/js/vendors/katex/fonts/KaTeX_Main-BoldItalic.woff2
+ create mode 100644 public/js/vendors/katex/fonts/KaTeX_Main-Italic.ttf
+ create mode 100644 public/js/vendors/katex/fonts/KaTeX_Main-Italic.woff
+ create mode 100644 public/js/vendors/katex/fonts/KaTeX_Main-Italic.woff2
+ create mode 100644 public/js/vendors/katex/fonts/KaTeX_Main-Regular.ttf
+ create mode 100644 public/js/vendors/katex/fonts/KaTeX_Main-Regular.woff
+ create mode 100644 public/js/vendors/katex/fonts/KaTeX_Main-Regular.woff2
+ create mode 100644 public/js/vendors/katex/fonts/KaTeX_Math-Italic.ttf
+ create mode 100644 public/js/vendors/katex/fonts/KaTeX_Math-Italic.woff
+ create mode 100644 public/js/vendors/katex/fonts/KaTeX_Math-Italic.woff2
+ create mode 100644 public/js/vendors/katex/fonts/KaTeX_SansSerif-Bold.ttf
+ create mode 100644 public/js/vendors/katex/fonts/KaTeX_SansSerif-Bold.woff
+ create mode 100644 public/js/vendors/katex/fonts/KaTeX_SansSerif-Bold.woff2
+ create mode 100644 public/js/vendors/katex/fonts/KaTeX_SansSerif-Italic.ttf
+ create mode 100644 public/js/vendors/katex/fonts/KaTeX_SansSerif-Italic.woff
+ create mode 100644 public/js/vendors/katex/fonts/KaTeX_SansSerif-Italic.woff2
+ create mode 100644 public/js/vendors/katex/fonts/KaTeX_SansSerif-Regular.ttf
+ create mode 100644 public/js/vendors/katex/fonts/KaTeX_SansSerif-Regular.woff
+ create mode 100644 public/js/vendors/katex/fonts/KaTeX_SansSerif-Regular.woff2
+ create mode 100644 public/js/vendors/katex/fonts/KaTeX_Script-Regular.ttf
+ create mode 100644 public/js/vendors/katex/fonts/KaTeX_Script-Regular.woff
+ create mode 100644 public/js/vendors/katex/fonts/KaTeX_Script-Regular.woff2
+ create mode 100644 public/js/vendors/katex/fonts/KaTeX_Size1-Regular.ttf
+ create mode 100644 public/js/vendors/katex/fonts/KaTeX_Size1-Regular.woff
+ create mode 100644 public/js/vendors/katex/fonts/KaTeX_Size1-Regular.woff2
+ create mode 100644 public/js/vendors/katex/fonts/KaTeX_Size2-Regular.ttf
+ create mode 100644 public/js/vendors/katex/fonts/KaTeX_Size2-Regular.woff
+ create mode 100644 public/js/vendors/katex/fonts/KaTeX_Size2-Regular.woff2
+ create mode 100644 public/js/vendors/katex/fonts/KaTeX_Size3-Regular.ttf
+ create mode 100644 public/js/vendors/katex/fonts/KaTeX_Size3-Regular.woff
+ create mode 100644 public/js/vendors/katex/fonts/KaTeX_Size3-Regular.woff2
+ create mode 100644 public/js/vendors/katex/fonts/KaTeX_Size4-Regular.ttf
+ create mode 100644 public/js/vendors/katex/fonts/KaTeX_Size4-Regular.woff
+ create mode 100644 public/js/vendors/katex/fonts/KaTeX_Size4-Regular.woff2
+ create mode 100644 public/js/vendors/katex/fonts/KaTeX_Typewriter-Regular.ttf
+ create mode 100644 public/js/vendors/katex/fonts/KaTeX_Typewriter-Regular.woff
+ create mode 100644 public/js/vendors/katex/fonts/KaTeX_Typewriter-Regular.woff2
+ create mode 100644 public/js/vendors/katex/katex.min.css
+ create mode 100644 public/js/vendors/katex/katex.min.js
+ create mode 100644 public/js/vendors/mdb/mdb.min.js
+ create mode 100644 public/js/vendors/mdb/mdw-search.js
+ create mode 100644 public/js/vendors/popper.min.js
+ create mode 100644 public/moment/index.html
+ create mode 100644 public/moment/index.xml
+ create mode 100644 public/moment/page/1/index.html
+ create mode 100644 public/moment/test/index.html
+ create mode 100644 public/rmarkdown-libs/crosstalk/css/crosstalk.css
+ create mode 100644 public/rmarkdown-libs/crosstalk/js/crosstalk.js
+ create mode 100644 public/rmarkdown-libs/crosstalk/js/crosstalk.js.map
+ create mode 100644 public/rmarkdown-libs/crosstalk/js/crosstalk.min.js
+ create mode 100644 public/rmarkdown-libs/crosstalk/js/crosstalk.min.js.map
+ create mode 100644 public/rmarkdown-libs/datatables-binding/datatables.js
+ create mode 100644 public/rmarkdown-libs/datatables-css/datatables-crosstalk.css
+ create mode 100644 public/rmarkdown-libs/dt-core/css/jquery.dataTables.extra.css
+ create mode 100644 public/rmarkdown-libs/dt-core/css/jquery.dataTables.min.css
+ create mode 100644 public/rmarkdown-libs/dt-core/js/jquery.dataTables.min.js
+ create mode 100644 public/rmarkdown-libs/dt-ext-buttons/css/buttons.dataTables.min.css
+ create mode 100644 public/rmarkdown-libs/dt-ext-buttons/js/buttons.colVis.min.js
+ create mode 100644 public/rmarkdown-libs/dt-ext-buttons/js/buttons.flash.min.js
+ create mode 100644 public/rmarkdown-libs/dt-ext-buttons/js/buttons.html5.min.js
+ create mode 100644 public/rmarkdown-libs/dt-ext-buttons/js/buttons.print.min.js
+ create mode 100644 public/rmarkdown-libs/dt-ext-buttons/js/dataTables.buttons.min.js
+ create mode 100644 public/rmarkdown-libs/dt-ext-responsive/css/responsive.dataTables.min.css
+ create mode 100644 public/rmarkdown-libs/dt-ext-responsive/js/dataTables.responsive.min.js
+ create mode 100644 public/rmarkdown-libs/htmlwidgets/htmlwidgets.js
+ create mode 100644 public/rmarkdown-libs/jquery/LICENSE.txt
+ create mode 100644 public/rmarkdown-libs/jquery/jquery.min.js
+ create mode 100644 public/rmarkdown-libs/nouislider/jquery.nouislider.min.css
+ create mode 100644 public/rmarkdown-libs/nouislider/jquery.nouislider.min.js
+ create mode 100644 public/rmarkdown-libs/pdfmake/pdfmake.min.js
+ create mode 100644 public/rmarkdown-libs/pdfmake/vfs_fonts.js
+ create mode 100644 public/rmarkdown-libs/pymjs/pym.v1.js
+ create mode 100644 public/rmarkdown-libs/pymjs/pym.v1.min.js
+ create mode 100644 public/rmarkdown-libs/selectize/selectize.bootstrap3.css
+ create mode 100644 public/rmarkdown-libs/selectize/selectize.min.js
+ create mode 100644 public/rmarkdown-libs/widgetframe-binding/widgetframe.js
+ create mode 100644 "public/series/blog\345\205\273\346\210\220\350\256\260/index.html"
+ create mode 100644 "public/series/blog\345\205\273\346\210\220\350\256\260/index.xml"
+ create mode 100644 public/series/cyber-data-science/index.html
+ create mode 100644 public/series/cyber-data-science/index.xml
+ create mode 100644 public/series/index.html
+ create mode 100644 public/series/index.xml
+ create mode 100644 "public/series/mac\345\260\217\347\231\275\346\216\242\347\264\242\350\256\260/index.html"
+ create mode 100644 "public/series/mac\345\260\217\347\231\275\346\216\242\347\264\242\350\256\260/index.xml"
+ create mode 100644 public/series/open-data/index.html
+ create mode 100644 public/series/open-data/index.xml
+ create mode 100644 public/series/open_data/index.html
+ create mode 100644 public/series/open_data/index.xml
+ create mode 100644 public/series/social-data-analysis/index.html
+ create mode 100644 public/series/social-data-analysis/index.xml
+ create mode 100644 public/series/social_data_analysis/index.html
+ create mode 100644 public/series/social_data_analysis/index.xml
+ create mode 100644 "public/series/\345\211\215\347\253\257\350\257\225\346\260\264/index.html"
+ create mode 100644 "public/series/\345\211\215\347\253\257\350\257\225\346\260\264/index.xml"
+ create mode 100644 "public/series/\350\247\202\345\220\216repo/index.html"
+ create mode 100644 "public/series/\350\247\202\345\220\216repo/index.xml"
+ create mode 100644 public/sitemap.xml
+ create mode 100644 public/tags/bayesian_stats/index.html
+ create mode 100644 public/tags/bayesian_stats/index.xml
+ create mode 100644 public/tags/blog/index.html
+ create mode 100644 public/tags/blog/index.xml
+ create mode 100644 public/tags/bug/index.html
+ create mode 100644 public/tags/bug/index.xml
+ create mode 100644 public/tags/crime_data/index.html
+ create mode 100644 public/tags/crime_data/index.xml
+ create mode 100644 public/tags/css/index.html
+ create mode 100644 public/tags/css/index.xml
+ create mode 100644 public/tags/cyber/index.html
+ create mode 100644 public/tags/cyber/index.xml
+ create mode 100644 public/tags/data-science-development/index.html
+ create mode 100644 public/tags/data-science-development/index.xml
+ create mode 100644 public/tags/demographics/index.html
+ create mode 100644 public/tags/demographics/index.xml
+ create mode 100644 public/tags/docker/index.html
+ create mode 100644 public/tags/docker/index.xml
+ create mode 100644 public/tags/ds-development/index.html
+ create mode 100644 public/tags/ds-development/index.xml
+ create mode 100644 public/tags/elections/index.html
+ create mode 100644 public/tags/elections/index.xml
+ create mode 100644 public/tags/hugo/index.html
+ create mode 100644 public/tags/hugo/index.xml
+ create mode 100644 public/tags/index.html
+ create mode 100644 public/tags/index.xml
+ create mode 100644 public/tags/js/index.html
+ create mode 100644 public/tags/js/index.xml
+ create mode 100644 public/tags/mac/index.html
+ create mode 100644 public/tags/mac/index.xml
+ create mode 100644 public/tags/markdown/index.html
+ create mode 100644 public/tags/markdown/index.xml
+ create mode 100644 public/tags/mortality/index.html
+ create mode 100644 public/tags/mortality/index.xml
+ create mode 100644 public/tags/musical/index.html
+ create mode 100644 public/tags/musical/index.xml
+ create mode 100644 public/tags/national-theatre/index.html
+ create mode 100644 public/tags/national-theatre/index.xml
+ create mode 100644 public/tags/nested-list/index.html
+ create mode 100644 public/tags/nested-list/index.xml
+ create mode 100644 public/tags/networks/index.html
+ create mode 100644 public/tags/networks/index.xml
+ create mode 100644 public/tags/open_data/index.html
+ create mode 100644 public/tags/open_data/index.xml
+ create mode 100644 public/tags/plot/index.html
+ create mode 100644 public/tags/plot/index.xml
+ create mode 100644 public/tags/puerto_rico/index.html
+ create mode 100644 public/tags/puerto_rico/index.xml
+ create mode 100644 public/tags/r-markdown/index.html
+ create mode 100644 public/tags/r-markdown/index.xml
+ create mode 100644 public/tags/regression/index.html
+ create mode 100644 public/tags/regression/index.xml
+ create mode 100644 public/tags/sass/index.html
+ create mode 100644 public/tags/sass/index.xml
+ create mode 100644 public/tags/tr-blog/index.html
+ create mode 100644 public/tags/tr-blog/index.xml
+ create mode 100644 public/tags/typora/index.html
+ create mode 100644 public/tags/typora/index.xml
+ create mode 100644 "public/tags/\344\270\255\346\226\207/index.html"
+ create mode 100644 "public/tags/\344\270\255\346\226\207/index.xml"
+ create mode 100644 "public/tags/\345\205\260\345\277\203/index.html"
+ create mode 100644 "public/tags/\345\205\260\345\277\203/index.xml"
+ create mode 100644 "public/tags/\345\211\215\347\253\257/index.html"
+ create mode 100644 "public/tags/\345\211\215\347\253\257/index.xml"
+ create mode 100644 "public/tags/\345\244\247\345\211\247\351\231\242/index.html"
+ create mode 100644 "public/tags/\345\244\247\345\211\247\351\231\242/index.xml"
+ create mode 100644 "public/tags/\346\226\207\345\271\277/index.html"
+ create mode 100644 "public/tags/\346\226\207\345\271\277/index.xml"
+ create mode 100644 "public/tags/\346\234\237\345\276\205\347\232\204show/index.html"
+ create mode 100644 "public/tags/\346\234\237\345\276\205\347\232\204show/index.xml"
+ create mode 100644 "public/tags/\347\216\257\345\242\203\351\205\215\347\275\256/index.html"
+ create mode 100644 "public/tags/\347\216\257\345\242\203\351\205\215\347\275\256/index.xml"
+ create mode 100644 "public/tags/\350\257\235\345\211\247/index.html"
+ create mode 100644 "public/tags/\350\257\235\345\211\247/index.xml"
+ create mode 100644 "public/tags/\350\270\242\350\270\217\350\210\236/index.html"
+ create mode 100644 "public/tags/\350\270\242\350\270\217\350\210\236/index.xml"
+ create mode 100644 "public/tags/\350\275\257\344\273\266\345\256\211\350\243\205/index.html"
+ create mode 100644 "public/tags/\350\275\257\344\273\266\345\256\211\350\243\205/index.xml"
+ create mode 100644 static/blog/2015-07-23-r-rmarkdown_files/figure-html/pie-1.png
+ create mode 100644 static/images/blog/2018-08/test1.jpg
+ create mode 100644 static/images/blog/2018-08/test3.jpg
+ create mode 100644 static/images/blog/2018-08/test4.jpg
+ create mode 100644 static/images/blog/2018-08/test5.jpg
+ create mode 100644 static/images/blog/2018-10/networks.png
+ create mode 100644 static/images/blog/2018-10/puerto_rico_death_choropleth.png
+ create mode 100644 static/images/blog/2018-11/capitol_pr.jpg
+ create mode 100644 static/images/blog/2018-11/latin_america.jpg
+ create mode 100644 "static/images/series/Mac\345\260\217\347\231\275\346\216\242\347\264\242\350\256\260/1/Amphetamine.jpg"
+ create mode 100644 "static/images/series/Mac\345\260\217\347\231\275\346\216\242\347\264\242\350\256\260/1/Cheatsheet.jpg"
+ create mode 100644 "static/images/series/Mac\345\260\217\347\231\275\346\216\242\347\264\242\350\256\260/1/Code.jpg"
+ create mode 100644 "static/images/series/Mac\345\260\217\347\231\275\346\216\242\347\264\242\350\256\260/1/Docker.jpg"
+ create mode 100644 "static/images/series/Mac\345\260\217\347\231\275\346\216\242\347\264\242\350\256\260/1/Little-Snitch.jpg"
+ create mode 100644 "static/images/series/Mac\345\260\217\347\231\275\346\216\242\347\264\242\350\256\260/1/NoSleep.jpg"
+ create mode 100644 "static/images/series/Mac\345\260\217\347\231\275\346\216\242\347\264\242\350\256\260/1/PyCharm.jpg"
+ create mode 100644 "static/images/series/Mac\345\260\217\347\231\275\346\216\242\347\264\242\350\256\260/1/SPlayerX.jpg"
+ create mode 100644 "static/images/series/Mac\345\260\217\347\231\275\346\216\242\347\264\242\350\256\260/1/Spectacle.jpg"
+ create mode 100644 "static/images/series/Mac\345\260\217\347\231\275\346\216\242\347\264\242\350\256\260/1/Sublime-Text.jpg"
+ create mode 100644 "static/images/series/Mac\345\260\217\347\231\275\346\216\242\347\264\242\350\256\260/1/Windscribe.jpg"
+ create mode 100644 "static/images/series/Mac\345\260\217\347\231\275\346\216\242\347\264\242\350\256\260/1/config-privacy-source.jpg"
+ create mode 100644 "static/images/series/Mac\345\260\217\347\231\275\346\216\242\347\264\242\350\256\260/1/open-emoji-view.jpg"
+ create mode 100644 "static/images/series/Mac\345\260\217\347\231\275\346\216\242\347\264\242\350\256\260/1/touchbar-config.jpg"
+ create mode 100644 "static/images/series/Mac\345\260\217\347\231\275\346\216\242\347\264\242\350\256\260/1/unarchiver.jpg"
+ create mode 100644 "static/images/series/Mac\345\260\217\347\231\275\346\216\242\347\264\242\350\256\260/1/vlc.jpg"
+ create mode 100644 "static/images/series/Mac\345\260\217\347\231\275\346\216\242\347\264\242\350\256\260/1/vuze.jpg"
+ create mode 100644 "static/images/series/Mac\345\260\217\347\231\275\346\216\242\347\264\242\350\256\260/2/Automator.jpg"
+ create mode 100644 "static/images/series/Mac\345\260\217\347\231\275\346\216\242\347\264\242\350\256\260/2/Go2Shell.jpg"
+ create mode 100644 "static/images/series/Mac\345\260\217\347\231\275\346\216\242\347\264\242\350\256\260/2/add-app.jpg"
+ create mode 100644 "static/images/series/Mac\345\260\217\347\231\275\346\216\242\347\264\242\350\256\260/2/application.jpg"
+ create mode 100644 "static/images/series/Mac\345\260\217\347\231\275\346\216\242\347\264\242\350\256\260/2/change-icon.jpg"
+ create mode 100644 "static/images/series/Mac\345\260\217\347\231\275\346\216\242\347\264\242\350\256\260/2/finder-toolbox.jpg"
+ create mode 100644 "static/images/series/Mac\345\260\217\347\231\275\346\216\242\347\264\242\350\256\260/2/finder-view.jpg"
+ create mode 100644 "static/images/series/Mac\345\260\217\347\231\275\346\216\242\347\264\242\350\256\260/2/go2shell-finder.jpg"
+ create mode 100644 "static/images/series/Mac\345\260\217\347\231\275\346\216\242\347\264\242\350\256\260/2/go2shell-toolbox.jpg"
+ create mode 100644 "static/images/series/Mac\345\260\217\347\231\275\346\216\242\347\264\242\350\256\260/2/new-application.jpg"
+ create mode 100644 "static/images/series/Mac\345\260\217\347\231\275\346\216\242\347\264\242\350\256\260/2/open-terminal.jpg"
+ create mode 100644 "static/images/series/Mac\345\260\217\347\231\275\346\216\242\347\264\242\350\256\260/2/run-script.jpg"
+ create mode 100644 "static/images/series/Mac\345\260\217\347\231\275\346\216\242\347\264\242\350\256\260/2/save-script.jpg"
+ create mode 100644 "static/images/series/Mac\345\260\217\347\231\275\346\216\242\347\264\242\350\256\260/2/service-open-terminal.jpg"
+ create mode 100644 static/img/profile.jpg
+ create mode 100644 static/rmarkdown-libs/crosstalk/css/crosstalk.css
+ create mode 100644 static/rmarkdown-libs/crosstalk/js/crosstalk.js
+ create mode 100644 static/rmarkdown-libs/crosstalk/js/crosstalk.js.map
+ create mode 100644 static/rmarkdown-libs/crosstalk/js/crosstalk.min.js
+ create mode 100644 static/rmarkdown-libs/crosstalk/js/crosstalk.min.js.map
+ create mode 100644 static/rmarkdown-libs/datatables-binding/datatables.js
+ create mode 100644 static/rmarkdown-libs/datatables-css/datatables-crosstalk.css
+ create mode 100644 static/rmarkdown-libs/dt-core/css/jquery.dataTables.extra.css
+ create mode 100644 static/rmarkdown-libs/dt-core/css/jquery.dataTables.min.css
+ create mode 100644 static/rmarkdown-libs/dt-core/js/jquery.dataTables.min.js
+ create mode 100644 static/rmarkdown-libs/dt-ext-buttons/css/buttons.dataTables.min.css
+ create mode 100644 static/rmarkdown-libs/dt-ext-buttons/js/buttons.colVis.min.js
+ create mode 100644 static/rmarkdown-libs/dt-ext-buttons/js/buttons.flash.min.js
+ create mode 100644 static/rmarkdown-libs/dt-ext-buttons/js/buttons.html5.min.js
+ create mode 100644 static/rmarkdown-libs/dt-ext-buttons/js/buttons.print.min.js
+ create mode 100644 static/rmarkdown-libs/dt-ext-buttons/js/dataTables.buttons.min.js
+ create mode 100644 static/rmarkdown-libs/dt-ext-responsive/css/responsive.dataTables.min.css
+ create mode 100644 static/rmarkdown-libs/dt-ext-responsive/js/dataTables.responsive.min.js
+ create mode 100644 static/rmarkdown-libs/htmlwidgets/htmlwidgets.js
+ create mode 100644 static/rmarkdown-libs/jquery/LICENSE.txt
+ create mode 100644 static/rmarkdown-libs/jquery/jquery.min.js
+ create mode 100644 static/rmarkdown-libs/nouislider/jquery.nouislider.min.css
+ create mode 100644 static/rmarkdown-libs/nouislider/jquery.nouislider.min.js
+ create mode 100644 static/rmarkdown-libs/pdfmake/pdfmake.min.js
+ create mode 100644 static/rmarkdown-libs/pdfmake/vfs_fonts.js
+ create mode 100644 static/rmarkdown-libs/pymjs/pym.v1.js
+ create mode 100644 static/rmarkdown-libs/pymjs/pym.v1.min.js
+ create mode 100644 static/rmarkdown-libs/selectize/selectize.bootstrap3.css
+ create mode 100644 static/rmarkdown-libs/selectize/selectize.min.js
+ create mode 100644 static/rmarkdown-libs/widgetframe-binding/widgetframe.js
+ create mode 100644 testing_home_page.Rproj
+ create mode 100644 themes/AllinOne/.gitattributes
+ create mode 100644 themes/AllinOne/LICENSE
+ create mode 100644 themes/AllinOne/README.md
+ create mode 100644 themes/AllinOne/archetypes/default.md
+ create mode 100644 themes/AllinOne/data/series.toml
+ create mode 100644 themes/AllinOne/exampleSite/config.toml
+ create mode 100644 themes/AllinOne/exampleSite/content/about/_index.md
+ create mode 100644 "themes/AllinOne/exampleSite/content/blog/2018-01/mac\345\260\217\347\231\275\346\216\242\347\264\242\350\256\2601-\345\237\272\346\234\254\350\256\276\347\275\256\344\270\216\345\270\270\347\224\250\350\275\257\344\273\266.md"
+ create mode 100644 "themes/AllinOne/exampleSite/content/blog/2018-01/mac\345\260\217\347\231\275\346\216\242\347\264\242\350\256\2602-finder\350\256\276\347\275\256.md"
+ create mode 100644 "themes/AllinOne/exampleSite/content/blog/2018-03/blog\345\205\273\346\210\220\350\256\2607-hugo\345\244\232\347\272\247\345\210\227\350\241\250\346\227\240\346\263\225\346\230\276\347\244\272--markdown\347\232\204bug\345\220\210\351\233\206.md"
+ create mode 100644 "themes/AllinOne/exampleSite/content/blog/2018-05/\344\270\255\346\226\207\347\211\210\351\237\263\344\271\220\345\211\247\351\225\277\350\205\277\345\217\224\345\217\224repo.md"
+ create mode 100644 "themes/AllinOne/exampleSite/content/blog/2018-05/\347\210\261\345\260\224\345\205\260\350\270\242\350\270\217\350\210\236\347\216\213\350\200\205\344\271\213\350\210\236\345\215\261\351\231\251\346\270\270\346\210\217.md"
+ create mode 100644 "themes/AllinOne/exampleSite/content/blog/2018-05/\347\216\260\345\256\236\344\270\216\345\271\273\346\203\263\347\232\204\350\267\235\347\246\273\350\247\202\346\267\261\345\244\234\345\260\217\347\213\227\347\246\273\345\245\207\344\272\213\344\273\266repo\346\204\237\346\203\263.md"
+ create mode 100644 "themes/AllinOne/exampleSite/content/blog/2018-08/blog\345\205\273\346\210\220\350\256\26011-\347\273\231\347\275\221\347\253\231\345\212\240\344\270\252\345\260\217icon.md"
+ create mode 100644 "themes/AllinOne/exampleSite/content/blog/2018-08/blog\345\205\273\346\210\220\350\256\26014-\350\256\251\345\220\214\351\241\265\346\273\232\345\212\250\346\233\264\345\271\263\346\273\221.md"
+ create mode 100644 "themes/AllinOne/exampleSite/content/blog/2018-08/\345\211\215\347\253\257\350\257\225\346\260\2641-\345\211\215\347\253\257\346\212\200\346\234\257\350\267\257\347\272\277.md"
+ create mode 100644 "themes/AllinOne/exampleSite/content/blog/2018-08/\345\211\215\347\253\257\350\257\225\346\260\2642-\344\275\277\347\224\250docker\351\225\234\345\203\217\347\232\204sass\351\205\215\347\275\256.md"
+ create mode 100644 "themes/AllinOne/exampleSite/content/blog/2018-08/\351\237\263\344\271\220\345\211\247catrepo.md"
+ create mode 100644 themes/AllinOne/exampleSite/content/blog/_index.md
+ create mode 100644 themes/AllinOne/exampleSite/content/moment/_index.md
+ create mode 100644 themes/AllinOne/exampleSite/content/moment/test.md
+ create mode 100644 themes/AllinOne/exampleSite/data/series.toml
+ create mode 100644 themes/AllinOne/exampleSite/layouts/shortcodes/bgstyle.html
+ create mode 100644 themes/AllinOne/exampleSite/layouts/shortcodes/color.html
+ create mode 100644 themes/AllinOne/exampleSite/static/images/blog/2018-08/test1.jpg
+ create mode 100644 themes/AllinOne/exampleSite/static/images/blog/2018-08/test3.jpg
+ create mode 100644 themes/AllinOne/exampleSite/static/images/blog/2018-08/test4.jpg
+ create mode 100644 themes/AllinOne/exampleSite/static/images/blog/2018-08/test5.jpg
+ create mode 100644 "themes/AllinOne/exampleSite/static/images/series/Mac\345\260\217\347\231\275\346\216\242\347\264\242\350\256\260/1/Amphetamine.jpg"
+ create mode 100644 "themes/AllinOne/exampleSite/static/images/series/Mac\345\260\217\347\231\275\346\216\242\347\264\242\350\256\260/1/Cheatsheet.jpg"
+ create mode 100644 "themes/AllinOne/exampleSite/static/images/series/Mac\345\260\217\347\231\275\346\216\242\347\264\242\350\256\260/1/Code.jpg"
+ create mode 100644 "themes/AllinOne/exampleSite/static/images/series/Mac\345\260\217\347\231\275\346\216\242\347\264\242\350\256\260/1/Docker.jpg"
+ create mode 100644 "themes/AllinOne/exampleSite/static/images/series/Mac\345\260\217\347\231\275\346\216\242\347\264\242\350\256\260/1/Little-Snitch.jpg"
+ create mode 100644 "themes/AllinOne/exampleSite/static/images/series/Mac\345\260\217\347\231\275\346\216\242\347\264\242\350\256\260/1/NoSleep.jpg"
+ create mode 100644 "themes/AllinOne/exampleSite/static/images/series/Mac\345\260\217\347\231\275\346\216\242\347\264\242\350\256\260/1/PyCharm.jpg"
+ create mode 100644 "themes/AllinOne/exampleSite/static/images/series/Mac\345\260\217\347\231\275\346\216\242\347\264\242\350\256\260/1/SPlayerX.jpg"
+ create mode 100644 "themes/AllinOne/exampleSite/static/images/series/Mac\345\260\217\347\231\275\346\216\242\347\264\242\350\256\260/1/Spectacle.jpg"
+ create mode 100644 "themes/AllinOne/exampleSite/static/images/series/Mac\345\260\217\347\231\275\346\216\242\347\264\242\350\256\260/1/Sublime-Text.jpg"
+ create mode 100644 "themes/AllinOne/exampleSite/static/images/series/Mac\345\260\217\347\231\275\346\216\242\347\264\242\350\256\260/1/Windscribe.jpg"
+ create mode 100644 "themes/AllinOne/exampleSite/static/images/series/Mac\345\260\217\347\231\275\346\216\242\347\264\242\350\256\260/1/config-privacy-source.jpg"
+ create mode 100644 "themes/AllinOne/exampleSite/static/images/series/Mac\345\260\217\347\231\275\346\216\242\347\264\242\350\256\260/1/open-emoji-view.jpg"
+ create mode 100644 "themes/AllinOne/exampleSite/static/images/series/Mac\345\260\217\347\231\275\346\216\242\347\264\242\350\256\260/1/touchbar-config.jpg"
+ create mode 100644 "themes/AllinOne/exampleSite/static/images/series/Mac\345\260\217\347\231\275\346\216\242\347\264\242\350\256\260/1/unarchiver.jpg"
+ create mode 100644 "themes/AllinOne/exampleSite/static/images/series/Mac\345\260\217\347\231\275\346\216\242\347\264\242\350\256\260/1/vlc.jpg"
+ create mode 100644 "themes/AllinOne/exampleSite/static/images/series/Mac\345\260\217\347\231\275\346\216\242\347\264\242\350\256\260/1/vuze.jpg"
+ create mode 100644 "themes/AllinOne/exampleSite/static/images/series/Mac\345\260\217\347\231\275\346\216\242\347\264\242\350\256\260/2/Automator.jpg"
+ create mode 100644 "themes/AllinOne/exampleSite/static/images/series/Mac\345\260\217\347\231\275\346\216\242\347\264\242\350\256\260/2/Go2Shell.jpg"
+ create mode 100644 "themes/AllinOne/exampleSite/static/images/series/Mac\345\260\217\347\231\275\346\216\242\347\264\242\350\256\260/2/add-app.jpg"
+ create mode 100644 "themes/AllinOne/exampleSite/static/images/series/Mac\345\260\217\347\231\275\346\216\242\347\264\242\350\256\260/2/application.jpg"
+ create mode 100644 "themes/AllinOne/exampleSite/static/images/series/Mac\345\260\217\347\231\275\346\216\242\347\264\242\350\256\260/2/change-icon.jpg"
+ create mode 100644 "themes/AllinOne/exampleSite/static/images/series/Mac\345\260\217\347\231\275\346\216\242\347\264\242\350\256\260/2/finder-toolbox.jpg"
+ create mode 100644 "themes/AllinOne/exampleSite/static/images/series/Mac\345\260\217\347\231\275\346\216\242\347\264\242\350\256\260/2/finder-view.jpg"
+ create mode 100644 "themes/AllinOne/exampleSite/static/images/series/Mac\345\260\217\347\231\275\346\216\242\347\264\242\350\256\260/2/go2shell-finder.jpg"
+ create mode 100644 "themes/AllinOne/exampleSite/static/images/series/Mac\345\260\217\347\231\275\346\216\242\347\264\242\350\256\260/2/go2shell-toolbox.jpg"
+ create mode 100644 "themes/AllinOne/exampleSite/static/images/series/Mac\345\260\217\347\231\275\346\216\242\347\264\242\350\256\260/2/new-application.jpg"
+ create mode 100644 "themes/AllinOne/exampleSite/static/images/series/Mac\345\260\217\347\231\275\346\216\242\347\264\242\350\256\260/2/open-terminal.jpg"
+ create mode 100644 "themes/AllinOne/exampleSite/static/images/series/Mac\345\260\217\347\231\275\346\216\242\347\264\242\350\256\260/2/run-script.jpg"
+ create mode 100644 "themes/AllinOne/exampleSite/static/images/series/Mac\345\260\217\347\231\275\346\216\242\347\264\242\350\256\260/2/save-script.jpg"
+ create mode 100644 "themes/AllinOne/exampleSite/static/images/series/Mac\345\260\217\347\231\275\346\216\242\347\264\242\350\256\260/2/service-open-terminal.jpg"
+ create mode 100644 themes/AllinOne/exampleSite/static/img/profile.jpg
+ create mode 100644 themes/AllinOne/i18n/en.yaml
+ create mode 100644 themes/AllinOne/i18n/zh-Hans.yaml
+ create mode 100644 themes/AllinOne/images/screenshot.png
+ create mode 100644 themes/AllinOne/images/screenshot2.png
+ create mode 100644 themes/AllinOne/images/screenshot3.png
+ create mode 100644 themes/AllinOne/images/tn.png
+ create mode 100644 themes/AllinOne/layouts/404.html
+ create mode 100644 themes/AllinOne/layouts/_default/baseof.html
+ create mode 100644 themes/AllinOne/layouts/_default/list.html
+ create mode 100644 themes/AllinOne/layouts/_default/single.html
+ create mode 100644 themes/AllinOne/layouts/_default/taxonomy.html
+ create mode 100644 themes/AllinOne/layouts/_default/terms.html
+ create mode 100644 themes/AllinOne/layouts/index.html
+ create mode 100644 themes/AllinOne/layouts/partials/footer.html
+ create mode 100644 themes/AllinOne/layouts/partials/head.html
+ create mode 100644 themes/AllinOne/layouts/partials/homepage-header.html
+ create mode 100644 themes/AllinOne/layouts/partials/li.html
+ create mode 100644 themes/AllinOne/layouts/partials/page-header.html
+ create mode 100644 themes/AllinOne/layouts/partials/page-heading.html
+ create mode 100644 themes/AllinOne/layouts/partials/post-card.html
+ create mode 100644 themes/AllinOne/layouts/partials/post-header.html
+ create mode 100644 themes/AllinOne/layouts/partials/sidebar-card.html
+ create mode 100644 themes/AllinOne/layouts/partials/sidebar-categories.html
+ create mode 100644 themes/AllinOne/layouts/partials/sidebar-series.html
+ create mode 100644 themes/AllinOne/layouts/partials/sidebar-tags.html
+ create mode 100644 themes/AllinOne/layouts/partials/site-navbar.html
+ create mode 100644 themes/AllinOne/layouts/partials/site-scripts.html
+ create mode 100644 themes/AllinOne/layouts/partials/tags.html
+ create mode 100644 themes/AllinOne/layouts/partials/toc.html
+ create mode 100644 themes/AllinOne/layouts/robots.txt
+ create mode 100644 themes/AllinOne/layouts/shortcodes/center.html
+ create mode 100644 themes/AllinOne/layouts/shortcodes/img-no-border.html
+ create mode 100644 themes/AllinOne/static/css/font.css
+ create mode 100644 themes/AllinOne/static/css/main.css
+ create mode 100644 themes/AllinOne/static/css/vendors-extensions/fontawesome/all.min.css
+ create mode 100644 themes/AllinOne/static/css/vendors-extensions/mdb/mdb.css
+ create mode 100644 themes/AllinOne/static/css/vendors-extensions/mdb/mdb.min.css
+ create mode 100644 themes/AllinOne/static/css/vendors/bootstrap4/bootstrap.min.css
+ create mode 100644 themes/AllinOne/static/css/vendors/highlight/github-gist.css
+ create mode 100644 themes/AllinOne/static/css/vendors/mdb/mdb.min.css
+ create mode 100644 themes/AllinOne/static/css/vendors/mdb/style.min.css
+ create mode 100644 themes/AllinOne/static/fonts/fontawesome/fa-brands-400.eot
+ create mode 100644 themes/AllinOne/static/fonts/fontawesome/fa-brands-400.svg
+ create mode 100644 themes/AllinOne/static/fonts/fontawesome/fa-brands-400.ttf
+ create mode 100644 themes/AllinOne/static/fonts/fontawesome/fa-brands-400.woff
+ create mode 100644 themes/AllinOne/static/fonts/fontawesome/fa-brands-400.woff2
+ create mode 100644 themes/AllinOne/static/fonts/fontawesome/fa-regular-400.eot
+ create mode 100644 themes/AllinOne/static/fonts/fontawesome/fa-regular-400.svg
+ create mode 100644 themes/AllinOne/static/fonts/fontawesome/fa-regular-400.ttf
+ create mode 100644 themes/AllinOne/static/fonts/fontawesome/fa-regular-400.woff
+ create mode 100644 themes/AllinOne/static/fonts/fontawesome/fa-regular-400.woff2
+ create mode 100644 themes/AllinOne/static/fonts/fontawesome/fa-solid-900.eot
+ create mode 100644 themes/AllinOne/static/fonts/fontawesome/fa-solid-900.svg
+ create mode 100644 themes/AllinOne/static/fonts/fontawesome/fa-solid-900.ttf
+ create mode 100644 themes/AllinOne/static/fonts/fontawesome/fa-solid-900.woff
+ create mode 100644 themes/AllinOne/static/fonts/fontawesome/fa-solid-900.woff2
+ create mode 100644 themes/AllinOne/static/img/default.jpg
+ create mode 100644 themes/AllinOne/static/img/header-slides/raw_1515691746.jpg
+ create mode 100644 themes/AllinOne/static/img/header-slides/raw_1515847341.jpg
+ create mode 100644 themes/AllinOne/static/img/mask/circle.svg
+ create mode 100644 themes/AllinOne/static/img/profile.jpg
+ create mode 100644 themes/AllinOne/static/img/svg/arrow_left.svg
+ create mode 100644 themes/AllinOne/static/img/svg/arrow_right.svg
+ create mode 100644 themes/AllinOne/static/img/zheng.png
+ create mode 100644 themes/AllinOne/static/js/main.js
+ create mode 100644 themes/AllinOne/static/js/vendors-extensions/bootstrap4/bootstrap.js
+ create mode 100644 themes/AllinOne/static/js/vendors/highlight.pack.js
+ create mode 100644 themes/AllinOne/static/js/vendors/holder.min.js
+ create mode 100644 themes/AllinOne/static/js/vendors/jquery/jquery-3.3.1.min.js
+ create mode 100644 themes/AllinOne/static/js/vendors/jquery/jquery.smooth-scroll.min.js
+ create mode 100644 themes/AllinOne/static/js/vendors/katex/contrib/auto-render.js
+ create mode 100644 themes/AllinOne/static/js/vendors/katex/contrib/auto-render.min.js
+ create mode 100644 themes/AllinOne/static/js/vendors/katex/contrib/copy-tex.css
+ create mode 100644 themes/AllinOne/static/js/vendors/katex/contrib/copy-tex.js
+ create mode 100644 themes/AllinOne/static/js/vendors/katex/contrib/copy-tex.min.css
+ create mode 100644 themes/AllinOne/static/js/vendors/katex/contrib/copy-tex.min.js
+ create mode 100644 themes/AllinOne/static/js/vendors/katex/contrib/mathtex-script-type.js
+ create mode 100644 themes/AllinOne/static/js/vendors/katex/contrib/mathtex-script-type.min.js
+ create mode 100644 themes/AllinOne/static/js/vendors/katex/fonts/KaTeX_AMS-Regular.ttf
+ create mode 100644 themes/AllinOne/static/js/vendors/katex/fonts/KaTeX_AMS-Regular.woff
+ create mode 100644 themes/AllinOne/static/js/vendors/katex/fonts/KaTeX_AMS-Regular.woff2
+ create mode 100644 themes/AllinOne/static/js/vendors/katex/fonts/KaTeX_Caligraphic-Bold.ttf
+ create mode 100644 themes/AllinOne/static/js/vendors/katex/fonts/KaTeX_Caligraphic-Bold.woff
+ create mode 100644 themes/AllinOne/static/js/vendors/katex/fonts/KaTeX_Caligraphic-Bold.woff2
+ create mode 100644 themes/AllinOne/static/js/vendors/katex/fonts/KaTeX_Caligraphic-Regular.ttf
+ create mode 100644 themes/AllinOne/static/js/vendors/katex/fonts/KaTeX_Caligraphic-Regular.woff
+ create mode 100644 themes/AllinOne/static/js/vendors/katex/fonts/KaTeX_Caligraphic-Regular.woff2
+ create mode 100644 themes/AllinOne/static/js/vendors/katex/fonts/KaTeX_Fraktur-Bold.ttf
+ create mode 100644 themes/AllinOne/static/js/vendors/katex/fonts/KaTeX_Fraktur-Bold.woff
+ create mode 100644 themes/AllinOne/static/js/vendors/katex/fonts/KaTeX_Fraktur-Bold.woff2
+ create mode 100644 themes/AllinOne/static/js/vendors/katex/fonts/KaTeX_Fraktur-Regular.ttf
+ create mode 100644 themes/AllinOne/static/js/vendors/katex/fonts/KaTeX_Fraktur-Regular.woff
+ create mode 100644 themes/AllinOne/static/js/vendors/katex/fonts/KaTeX_Fraktur-Regular.woff2
+ create mode 100644 themes/AllinOne/static/js/vendors/katex/fonts/KaTeX_Main-Bold.ttf
+ create mode 100644 themes/AllinOne/static/js/vendors/katex/fonts/KaTeX_Main-Bold.woff
+ create mode 100644 themes/AllinOne/static/js/vendors/katex/fonts/KaTeX_Main-Bold.woff2
+ create mode 100644 themes/AllinOne/static/js/vendors/katex/fonts/KaTeX_Main-BoldItalic.ttf
+ create mode 100644 themes/AllinOne/static/js/vendors/katex/fonts/KaTeX_Main-BoldItalic.woff
+ create mode 100644 themes/AllinOne/static/js/vendors/katex/fonts/KaTeX_Main-BoldItalic.woff2
+ create mode 100644 themes/AllinOne/static/js/vendors/katex/fonts/KaTeX_Main-Italic.ttf
+ create mode 100644 themes/AllinOne/static/js/vendors/katex/fonts/KaTeX_Main-Italic.woff
+ create mode 100644 themes/AllinOne/static/js/vendors/katex/fonts/KaTeX_Main-Italic.woff2
+ create mode 100644 themes/AllinOne/static/js/vendors/katex/fonts/KaTeX_Main-Regular.ttf
+ create mode 100644 themes/AllinOne/static/js/vendors/katex/fonts/KaTeX_Main-Regular.woff
+ create mode 100644 themes/AllinOne/static/js/vendors/katex/fonts/KaTeX_Main-Regular.woff2
+ create mode 100644 themes/AllinOne/static/js/vendors/katex/fonts/KaTeX_Math-Italic.ttf
+ create mode 100644 themes/AllinOne/static/js/vendors/katex/fonts/KaTeX_Math-Italic.woff
+ create mode 100644 themes/AllinOne/static/js/vendors/katex/fonts/KaTeX_Math-Italic.woff2
+ create mode 100644 themes/AllinOne/static/js/vendors/katex/fonts/KaTeX_SansSerif-Bold.ttf
+ create mode 100644 themes/AllinOne/static/js/vendors/katex/fonts/KaTeX_SansSerif-Bold.woff
+ create mode 100644 themes/AllinOne/static/js/vendors/katex/fonts/KaTeX_SansSerif-Bold.woff2
+ create mode 100644 themes/AllinOne/static/js/vendors/katex/fonts/KaTeX_SansSerif-Italic.ttf
+ create mode 100644 themes/AllinOne/static/js/vendors/katex/fonts/KaTeX_SansSerif-Italic.woff
+ create mode 100644 themes/AllinOne/static/js/vendors/katex/fonts/KaTeX_SansSerif-Italic.woff2
+ create mode 100644 themes/AllinOne/static/js/vendors/katex/fonts/KaTeX_SansSerif-Regular.ttf
+ create mode 100644 themes/AllinOne/static/js/vendors/katex/fonts/KaTeX_SansSerif-Regular.woff
+ create mode 100644 themes/AllinOne/static/js/vendors/katex/fonts/KaTeX_SansSerif-Regular.woff2
+ create mode 100644 themes/AllinOne/static/js/vendors/katex/fonts/KaTeX_Script-Regular.ttf
+ create mode 100644 themes/AllinOne/static/js/vendors/katex/fonts/KaTeX_Script-Regular.woff
+ create mode 100644 themes/AllinOne/static/js/vendors/katex/fonts/KaTeX_Script-Regular.woff2
+ create mode 100644 themes/AllinOne/static/js/vendors/katex/fonts/KaTeX_Size1-Regular.ttf
+ create mode 100644 themes/AllinOne/static/js/vendors/katex/fonts/KaTeX_Size1-Regular.woff
+ create mode 100644 themes/AllinOne/static/js/vendors/katex/fonts/KaTeX_Size1-Regular.woff2
+ create mode 100644 themes/AllinOne/static/js/vendors/katex/fonts/KaTeX_Size2-Regular.ttf
+ create mode 100644 themes/AllinOne/static/js/vendors/katex/fonts/KaTeX_Size2-Regular.woff
+ create mode 100644 themes/AllinOne/static/js/vendors/katex/fonts/KaTeX_Size2-Regular.woff2
+ create mode 100644 themes/AllinOne/static/js/vendors/katex/fonts/KaTeX_Size3-Regular.ttf
+ create mode 100644 themes/AllinOne/static/js/vendors/katex/fonts/KaTeX_Size3-Regular.woff
+ create mode 100644 themes/AllinOne/static/js/vendors/katex/fonts/KaTeX_Size3-Regular.woff2
+ create mode 100644 themes/AllinOne/static/js/vendors/katex/fonts/KaTeX_Size4-Regular.ttf
+ create mode 100644 themes/AllinOne/static/js/vendors/katex/fonts/KaTeX_Size4-Regular.woff
+ create mode 100644 themes/AllinOne/static/js/vendors/katex/fonts/KaTeX_Size4-Regular.woff2
+ create mode 100644 themes/AllinOne/static/js/vendors/katex/fonts/KaTeX_Typewriter-Regular.ttf
+ create mode 100644 themes/AllinOne/static/js/vendors/katex/fonts/KaTeX_Typewriter-Regular.woff
+ create mode 100644 themes/AllinOne/static/js/vendors/katex/fonts/KaTeX_Typewriter-Regular.woff2
+ create mode 100644 themes/AllinOne/static/js/vendors/katex/katex.min.css
+ create mode 100644 themes/AllinOne/static/js/vendors/katex/katex.min.js
+ create mode 100644 themes/AllinOne/static/js/vendors/mdb/mdb.min.js
+ create mode 100644 themes/AllinOne/static/js/vendors/mdb/mdw-search.js
+ create mode 100644 themes/AllinOne/static/js/vendors/popper.min.js
+ create mode 100644 themes/AllinOne/theme.toml
+]0;/home/kropotkin/Documents/gh/testing_home_pagekropotkin@kronstadt:~/Documents/gh/testing_home_page$ git commit -m "Initial Upload"add .[Kpush -u origin master
+Counting objects: 681, done.
+Delta compression using up to 8 threads.
+Compressing objects:   0% (1/612)   Compressing objects:   1% (7/612)   Compressing objects:   2% (13/612)   Compressing objects:   3% (19/612)   Compressing objects:   4% (25/612)   Compressing objects:   5% (31/612)   Compressing objects:   6% (37/612)   Compressing objects:   7% (43/612)   Compressing objects:   8% (49/612)   Compressing objects:   9% (56/612)   Compressing objects:  10% (62/612)   Compressing objects:  11% (68/612)   Compressing objects:  12% (74/612)   Compressing objects:  13% (80/612)   Compressing objects:  14% (86/612)   Compressing objects:  15% (92/612)   Compressing objects:  16% (98/612)   Compressing objects:  17% (105/612)   Compressing objects:  18% (111/612)   Compressing objects:  19% (117/612)   Compressing objects:  20% (123/612)   Compressing objects:  21% (129/612)   Compressing objects:  22% (135/612)   Compressing objects:  23% (141/612)   Compressing objects:  24% (147/612)   Compressing objects:  25% (153/612)   Compressing objects:  26% (160/612)   Compressing objects:  27% (166/612)   Compressing objects:  28% (172/612)   Compressing objects:  29% (178/612)   Compressing objects:  30% (184/612)   Compressing objects:  31% (190/612)   Compressing objects:  32% (196/612)   Compressing objects:  33% (202/612)   Compressing objects:  34% (209/612)   Compressing objects:  35% (215/612)   Compressing objects:  36% (221/612)   Compressing objects:  37% (227/612)   Compressing objects:  38% (233/612)   Compressing objects:  39% (239/612)   Compressing objects:  40% (245/612)   Compressing objects:  41% (251/612)   Compressing objects:  42% (258/612)   Compressing objects:  43% (264/612)   Compressing objects:  44% (270/612)   Compressing objects:  45% (276/612)   Compressing objects:  46% (282/612)   Compressing objects:  47% (288/612)   Compressing objects:  48% (294/612)   Compressing objects:  49% (300/612)   Compressing objects:  50% (306/612)   Compressing objects:  51% (313/612)   Compressing objects:  52% (319/612)   Compressing objects:  53% (325/612)   Compressing objects:  54% (331/612)   Compressing objects:  55% (337/612)   Compressing objects:  56% (343/612)   Compressing objects:  57% (349/612)   Compressing objects:  58% (355/612)   Compressing objects:  59% (362/612)   Compressing objects:  60% (368/612)   Compressing objects:  61% (374/612)   Compressing objects:  62% (380/612)   Compressing objects:  63% (386/612)   Compressing objects:  64% (392/612)   Compressing objects:  65% (398/612)   Compressing objects:  66% (404/612)   Compressing objects:  67% (411/612)   Compressing objects:  68% (417/612)   Compressing objects:  69% (423/612)   Compressing objects:  70% (429/612)   Compressing objects:  71% (435/612)   Compressing objects:  72% (441/612)   Compressing objects:  73% (447/612)   Compressing objects:  74% (453/612)   Compressing objects:  75% (459/612)   Compressing objects:  76% (466/612)   Compressing objects:  77% (472/612)   Compressing objects:  78% (478/612)   Compressing objects:  79% (484/612)   Compressing objects:  80% (490/612)   Compressing objects:  81% (496/612)   Compressing objects:  82% (502/612)   Compressing objects:  83% (508/612)   Compressing objects:  84% (515/612)   Compressing objects:  85% (521/612)   Compressing objects:  86% (527/612)   Compressing objects:  87% (533/612)   Compressing objects:  88% (539/612)   Compressing objects:  89% (545/612)   Compressing objects:  90% (551/612)   Compressing objects:  91% (557/612)   Compressing objects:  92% (564/612)   Compressing objects:  93% (570/612)   Compressing objects:  94% (576/612)   Compressing objects:  95% (582/612)   Compressing objects:  96% (588/612)   Compressing objects:  97% (594/612)   Compressing objects:  98% (600/612)   Compressing objects:  99% (606/612)   Compressing objects: 100% (612/612)   Compressing objects: 100% (612/612), done.
+Writing objects:   0% (1/681)   Writing objects:   1% (7/681)   Writing objects:   2% (14/681)   Writing objects:   3% (21/681)   Writing objects:   4% (28/681)   Writing objects:   5% (35/681)   Writing objects:   6% (41/681)   Writing objects:   7% (48/681)   Writing objects:   8% (55/681)   Writing objects:   9% (62/681)   Writing objects:  10% (69/681)   Writing objects:  11% (75/681)   Writing objects:  12% (82/681)   Writing objects:  13% (89/681)   Writing objects:  14% (96/681)   Writing objects:  15% (103/681)   Writing objects:  16% (109/681)   Writing objects:  17% (116/681)   Writing objects:  18% (126/681)   Writing objects:  19% (130/681)   Writing objects:  20% (139/681)   Writing objects:  21% (144/681)   Writing objects:  22% (150/681)   Writing objects:  23% (157/681)   Writing objects:  24% (164/681)   Writing objects:  25% (171/681)   Writing objects:  26% (178/681)   Writing objects:  27% (184/681)   Writing objects:  28% (191/681)   Writing objects:  29% (199/681)   Writing objects:  30% (205/681)   Writing objects:  31% (212/681)   Writing objects:  32% (218/681)   Writing objects:  33% (225/681)   Writing objects:  34% (232/681)   Writing objects:  35% (239/681), 1.30 MiB | 2.07 MiB/s   Writing objects:  36% (246/681), 1.30 MiB | 2.07 MiB/s   Writing objects:  37% (253/681), 1.30 MiB | 2.07 MiB/s   Writing objects:  38% (259/681), 1.30 MiB | 2.07 MiB/s   Writing objects:  39% (266/681), 1.30 MiB | 2.07 MiB/s   Writing objects:  40% (273/681), 1.30 MiB | 2.07 MiB/s   Writing objects:  41% (280/681), 1.30 MiB | 2.07 MiB/s   Writing objects:  42% (288/681), 1.30 MiB | 2.07 MiB/s   Writing objects:  43% (293/681), 1.30 MiB | 2.07 MiB/s   Writing objects:  44% (300/681), 1.30 MiB | 2.07 MiB/s   Writing objects:  45% (308/681), 1.30 MiB | 2.07 MiB/s   Writing objects:  46% (314/681), 1.30 MiB | 2.07 MiB/s   Writing objects:  47% (321/681), 1.30 MiB | 2.07 MiB/s   Writing objects:  48% (327/681), 1.30 MiB | 2.07 MiB/s   Writing objects:  49% (334/681), 1.30 MiB | 2.07 MiB/s   Writing objects:  49% (337/681), 2.54 MiB | 1.86 MiB/s   Writing objects:  50% (341/681), 2.54 MiB | 1.86 MiB/s   Writing objects:  50% (345/681), 3.79 MiB | 1.54 MiB/s   Writing objects:  50% (345/681), 4.40 MiB | 1.32 MiB/s   Writing objects:  50% (346/681), 5.02 MiB | 1.20 MiB/s   Writing objects:  50% (346/681), 5.64 MiB | 1.13 MiB/s   Writing objects:  51% (348/681), 6.27 MiB | 1.10 MiB/s   Writing objects:  51% (352/681), 6.89 MiB | 1.08 MiB/s   Writing objects:  52% (355/681), 6.89 MiB | 1.08 MiB/s   Writing objects:  53% (361/681), 6.89 MiB | 1.08 MiB/s   Writing objects:  54% (368/681), 6.89 MiB | 1.08 MiB/s   Writing objects:  54% (369/681), 7.51 MiB | 1.07 MiB/s   Writing objects:  55% (375/681), 7.51 MiB | 1.07 MiB/s   Writing objects:  56% (382/681), 7.51 MiB | 1.07 MiB/s   Writing objects:  57% (389/681), 8.13 MiB | 1010.00 KiB/s   Writing objects:  57% (391/681), 8.13 MiB | 1010.00 KiB/s   Writing objects:  58% (395/681), 8.13 MiB | 1010.00 KiB/s   Writing objects:  59% (402/681), 8.13 MiB | 1010.00 KiB/s   Writing objects:  60% (409/681), 9.32 MiB | 1.01 MiB/s   Writing objects:  61% (416/681), 9.32 MiB | 1.01 MiB/s   Writing objects:  62% (423/681), 9.32 MiB | 1.01 MiB/s   Writing objects:  63% (430/681), 9.32 MiB | 1.01 MiB/s   Writing objects:  64% (436/681), 9.32 MiB | 1.01 MiB/s   Writing objects:  65% (443/681), 9.32 MiB | 1.01 MiB/s   Writing objects:  66% (450/681), 10.00 MiB | 1007.00 KiB/s   Writing objects:  67% (457/681), 10.00 MiB | 1007.00 KiB/s   Writing objects:  68% (464/681), 10.00 MiB | 1007.00 KiB/s   Writing objects:  69% (470/681), 10.00 MiB | 1007.00 KiB/s   Writing objects:  70% (477/681), 10.00 MiB | 1007.00 KiB/s   Writing objects:  71% (484/681), 10.00 MiB | 1007.00 KiB/s   Writing objects:  72% (491/681), 10.00 MiB | 1007.00 KiB/s   Writing objects:  73% (498/681), 10.00 MiB | 1007.00 KiB/s   Writing objects:  74% (504/681), 10.00 MiB | 1007.00 KiB/s   Writing objects:  75% (511/681), 10.00 MiB | 1007.00 KiB/s   Writing objects:  76% (518/681), 10.00 MiB | 1007.00 KiB/s   Writing objects:  77% (525/681), 10.00 MiB | 1007.00 KiB/s   Writing objects:  78% (532/681), 10.00 MiB | 1007.00 KiB/s   Writing objects:  79% (538/681), 10.00 MiB | 1007.00 KiB/s   Writing objects:  80% (546/681), 10.00 MiB | 1007.00 KiB/s   Writing objects:  81% (552/681), 10.00 MiB | 1007.00 KiB/s   Writing objects:  82% (559/681), 10.00 MiB | 1007.00 KiB/s   Writing objects:  83% (566/681), 10.00 MiB | 1007.00 KiB/s   Writing objects:  84% (573/681), 10.00 MiB | 1007.00 KiB/s   Writing objects:  85% (579/681), 10.00 MiB | 1007.00 KiB/s   Writing objects:  86% (586/681), 10.00 MiB | 1007.00 KiB/s   Writing objects:  87% (593/681), 10.00 MiB | 1007.00 KiB/s   Writing objects:  88% (601/681), 10.00 MiB | 1007.00 KiB/s   Writing objects:  89% (607/681), 10.00 MiB | 1007.00 KiB/s   Writing objects:  90% (613/681), 10.00 MiB | 1007.00 KiB/s   Writing objects:  91% (620/681), 10.00 MiB | 1007.00 KiB/s   Writing objects:  92% (627/681), 10.00 MiB | 1007.00 KiB/s   Writing objects:  93% (634/681), 10.00 MiB | 1007.00 KiB/s   Writing objects:  94% (641/681), 10.00 MiB | 1007.00 KiB/s   Writing objects:  95% (647/681), 10.00 MiB | 1007.00 KiB/s   Writing objects:  95% (651/681), 10.00 MiB | 1007.00 KiB/s   Writing objects:  96% (654/681), 10.00 MiB | 1007.00 KiB/s   Writing objects:  96% (658/681), 12.48 MiB | 1.26 MiB/s   Writing objects:  96% (660/681), 13.73 MiB | 1.41 MiB/s   Writing objects:  97% (661/681), 14.98 MiB | 1.52 MiB/s   Writing objects:  98% (668/681), 14.98 MiB | 1.52 MiB/s   Writing objects:  99% (675/681), 14.98 MiB | 1.52 MiB/s   Writing objects: 100% (681/681), 14.98 MiB | 1.52 MiB/s   Writing objects: 100% (681/681), 15.32 MiB | 1.34 MiB/s, done.
+Total 681 (delta 147), reused 0 (delta 0)
+remote: Resolving deltas:   0% (0/147)   [Kremote: Resolving deltas:   2% (3/147)   [Kremote: Resolving deltas:   3% (5/147)   [Kremote: Resolving deltas:   4% (6/147)   [Kremote: Resolving deltas:  27% (41/147)   [Kremote: Resolving deltas:  33% (49/147)   [Kremote: Resolving deltas:  34% (51/147)   [Kremote: Resolving deltas:  38% (56/147)   [Kremote: Resolving deltas:  43% (64/147)   [Kremote: Resolving deltas:  44% (66/147)   [Kremote: Resolving deltas:  49% (73/147)   [Kremote: Resolving deltas:  50% (74/147)   [Kremote: Resolving deltas:  51% (75/147)   [Kremote: Resolving deltas:  52% (77/147)   [Kremote: Resolving deltas:  59% (88/147)   [Kremote: Resolving deltas:  60% (89/147)   [Kremote: Resolving deltas:  75% (111/147)   [Kremote: Resolving deltas:  82% (121/147)   [Kremote: Resolving deltas:  85% (125/147)   [Kremote: Resolving deltas:  88% (130/147)   [Kremote: Resolving deltas:  89% (131/147)   [Kremote: Resolving deltas:  90% (133/147)   [Kremote: Resolving deltas:  91% (134/147)   [Kremote: Resolving deltas:  92% (136/147)   [Kremote: Resolving deltas:  93% (138/147)   [Kremote: Resolving deltas:  94% (139/147)   [Kremote: Resolving deltas:  95% (141/147)   [Kremote: Resolving deltas:  96% (142/147)   [Kremote: Resolving deltas:  97% (144/147)   [Kremote: Resolving deltas:  98% (145/147)   [Kremote: Resolving deltas:  99% (146/147)   [Kremote: Resolving deltas: 100% (147/147)   [Kremote: Resolving deltas: 100% (147/147), done.[K
+To github.com:ian-flores/static_blog.git
+ * [new branch]      master -> master
+Branch 'master' set up to track remote branch 'master' from 'origin'.
+[Kkropotkin@kronstadt:~/Documents/gh/testing_home_page$ git ad d .
