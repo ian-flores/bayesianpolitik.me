@@ -52,7 +52,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   faviconfile              = "img/zheng.png"               # from static/
   avatar                   = "img/profile.jpg"             # path to image in static dir e.g img/avatar.png 
   author                   = "Ian Flores Siaca"
-  description              = ["A Webpage about Data Science, Cyber Security and Politics"]           # appears in the site header when set to a non-empty string
+  description              = ["A Webpage about Data Science, Cyber Security and Politics", "by Ian Flores Siaca"]           # appears in the site header when set to a non-empty string
   welcome_head             = " "
   welcome_word             = " " 
 
