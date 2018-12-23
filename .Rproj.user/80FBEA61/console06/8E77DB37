@@ -841,3 +841,86 @@ To github.com:ian-flores/static_blog.git
  * [new branch]      master -> master
 Branch 'master' set up to track remote branch 'master' from 'origin'.
 [Kkropotkin@kronstadt:~/Documents/gh/testing_home_page$ git ad d .
+]0;/home/kropotkin/Documents/gh/testing_home_pagekropotkin@kronstadt:~/Documents/gh/testing_home_page$ git co mmit -m "Testing images"
+[master e9d2e91] Testing images
+ 112 files changed, 2912 insertions(+), 4381 deletions(-)
+ rewrite .Rproj.user/80FBEA61/console06/INDEX001 (72%)
+ delete mode 100644 .Rproj.user/80FBEA61/sources/s-90DF04EA/1158C62-contents
+ delete mode 100644 .Rproj.user/80FBEA61/sources/s-90DF04EA/116A20E2-contents
+ delete mode 100644 .Rproj.user/80FBEA61/sources/s-90DF04EA/170D5D89-contents
+ delete mode 100644 .Rproj.user/80FBEA61/sources/s-90DF04EA/1A64CB14-contents
+ delete mode 100644 .Rproj.user/80FBEA61/sources/s-90DF04EA/1AA12228-contents
+ delete mode 100644 .Rproj.user/80FBEA61/sources/s-90DF04EA/1BAB0279-contents
+ delete mode 100644 .Rproj.user/80FBEA61/sources/s-90DF04EA/2079B0FE-contents
+ delete mode 100644 .Rproj.user/80FBEA61/sources/s-90DF04EA/25796D43-contents
+ delete mode 100644 .Rproj.user/80FBEA61/sources/s-90DF04EA/491028D6-contents
+ delete mode 100644 .Rproj.user/80FBEA61/sources/s-90DF04EA/4A271796
+ delete mode 100644 .Rproj.user/80FBEA61/sources/s-90DF04EA/4A271796-contents
+ delete mode 100644 .Rproj.user/80FBEA61/sources/s-90DF04EA/4AAD0D4D-contents
+ delete mode 100644 .Rproj.user/80FBEA61/sources/s-90DF04EA/4D039E7-contents
+ delete mode 100644 .Rproj.user/80FBEA61/sources/s-90DF04EA/51593533-contents
+ delete mode 100644 .Rproj.user/80FBEA61/sources/s-90DF04EA/5270477E-contents
+ delete mode 100644 .Rproj.user/80FBEA61/sources/s-90DF04EA/554F031B-contents
+ delete mode 100644 .Rproj.user/80FBEA61/sources/s-90DF04EA/5DF4B4C4-contents
+ delete mode 100644 .Rproj.user/80FBEA61/sources/s-90DF04EA/72A03D21-contents
+ delete mode 100644 .Rproj.user/80FBEA61/sources/s-90DF04EA/73585E1A-contents
+ delete mode 100644 .Rproj.user/80FBEA61/sources/s-90DF04EA/74A81E77-contents
+ delete mode 100644 .Rproj.user/80FBEA61/sources/s-90DF04EA/77FA47CC-contents
+ delete mode 100644 .Rproj.user/80FBEA61/sources/s-90DF04EA/7957F088
+ delete mode 100644 .Rproj.user/80FBEA61/sources/s-90DF04EA/7957F088-contents
+ delete mode 100644 .Rproj.user/80FBEA61/sources/s-90DF04EA/7F4AACDE-contents
+ delete mode 100644 .Rproj.user/80FBEA61/sources/s-90DF04EA/842AE19E-contents
+ delete mode 100644 .Rproj.user/80FBEA61/sources/s-90DF04EA/85203B11-contents
+ delete mode 100644 .Rproj.user/80FBEA61/sources/s-90DF04EA/87884985-contents
+ delete mode 100644 .Rproj.user/80FBEA61/sources/s-90DF04EA/8861FD1C-contents
+ delete mode 100644 .Rproj.user/80FBEA61/sources/s-90DF04EA/8A19C21D-contents
+ delete mode 100644 .Rproj.user/80FBEA61/sources/s-90DF04EA/8B997B3-contents
+ delete mode 100644 .Rproj.user/80FBEA61/sources/s-90DF04EA/8D57F388-contents
+ delete mode 100644 .Rproj.user/80FBEA61/sources/s-90DF04EA/8F51D91B-contents
+ delete mode 100644 .Rproj.user/80FBEA61/sources/s-90DF04EA/8FF565BB-contents
+ delete mode 100644 .Rproj.user/80FBEA61/sources/s-90DF04EA/95180FBD-contents
+ delete mode 100644 .Rproj.user/80FBEA61/sources/s-90DF04EA/9862B448-contents
+ delete mode 100644 .Rproj.user/80FBEA61/sources/s-90DF04EA/A34A4F5C-contents
+ delete mode 100644 .Rproj.user/80FBEA61/sources/s-90DF04EA/A9671182-contents
+ delete mode 100644 .Rproj.user/80FBEA61/sources/s-90DF04EA/AE3E640C-contents
+ delete mode 100644 .Rproj.user/80FBEA61/sources/s-90DF04EA/BB01FE9-contents
+ delete mode 100644 .Rproj.user/80FBEA61/sources/s-90DF04EA/C56EE3C0-contents
+ delete mode 100644 .Rproj.user/80FBEA61/sources/s-90DF04EA/C76896D1-contents
+ delete mode 100644 .Rproj.user/80FBEA61/sources/s-90DF04EA/DA11E83B-contents
+ delete mode 100644 .Rproj.user/80FBEA61/sources/s-90DF04EA/DC77CC54-contents
+ delete mode 100644 .Rproj.user/80FBEA61/sources/s-90DF04EA/E294CCE2-contents
+ delete mode 100644 .Rproj.user/80FBEA61/sources/s-90DF04EA/EDED8482-contents
+ delete mode 100644 .Rproj.user/80FBEA61/sources/s-90DF04EA/F6CAF367-contents
+ delete mode 100644 .Rproj.user/80FBEA61/sources/s-90DF04EA/FBE1119E-contents
+ delete mode 100644 .Rproj.user/80FBEA61/sources/s-90DF04EA/FC69DEB1-contents
+ delete mode 100644 .Rproj.user/80FBEA61/sources/s-90DF04EA/FF2709B0-contents
+ delete mode 100644 .Rproj.user/80FBEA61/sources/s-90DF04EA/lock_file
+ delete mode 100644 .Rproj.user/shared/notebooks/3A1EC4D4-feminicides_es/1/s/chunks.json
+ delete mode 100644 .Rproj.user/shared/notebooks/3EFAE0FC-feminicides_en/1/80FBEA6190DF04EA/chunks.json
+ delete mode 100644 .Rproj.user/shared/notebooks/3EFAE0FC-feminicides_en/1/s/chunks.json
+ create mode 100644 .gitignore
+ rewrite content/moment/_index.md (98%)
+ rewrite content/moment/test.md (98%)
+ create mode 100644 public/categories/2018/index.html
+ create mode 100644 public/categories/2018/index.xml
+ rewrite public/moment/index.xml (68%)
+ create mode 100644 public/slider/internet_free.jpg
+ create mode 100644 public/slider/nasa_pr.jpg
+ create mode 100644 public/slider/spain_indignados.jpg
+ create mode 100644 public/slider/watercolor-map.jpg
+ create mode 100644 public/slider/watercolor-map.png
+ create mode 100644 public/slider/watercolor_map.jpg
+ create mode 100644 static/slider/internet_free.jpg
+ create mode 100644 static/slider/nasa_pr.jpg
+ create mode 100644 static/slider/spain_indignados.jpg
+ create mode 100644 static/slider/watercolor_map.jpg
+]0;/home/kropotkin/Documents/gh/testing_home_pagekropotkin@kronstadt:~/Documents/gh/testing_home_page$ git pu sh
+Counting objects: 103, done.
+Delta compression using up to 8 threads.
+Compressing objects:   1% (1/91)   Compressing objects:   2% (2/91)   Compressing objects:   3% (3/91)   Compressing objects:   4% (4/91)   Compressing objects:   5% (5/91)   Compressing objects:   6% (6/91)   Compressing objects:   7% (7/91)   Compressing objects:   8% (8/91)   Compressing objects:   9% (9/91)   Compressing objects:  10% (10/91)   Compressing objects:  12% (11/91)   Compressing objects:  13% (12/91)   Compressing objects:  14% (13/91)   Compressing objects:  15% (14/91)   Compressing objects:  16% (15/91)   Compressing objects:  17% (16/91)   Compressing objects:  18% (17/91)   Compressing objects:  19% (18/91)   Compressing objects:  20% (19/91)   Compressing objects:  21% (20/91)   Compressing objects:  23% (21/91)   Compressing objects:  24% (22/91)   Compressing objects:  25% (23/91)   Compressing objects:  26% (24/91)   Compressing objects:  27% (25/91)   Compressing objects:  28% (26/91)   Compressing objects:  29% (27/91)   Compressing objects:  30% (28/91)   Compressing objects:  31% (29/91)   Compressing objects:  32% (30/91)   Compressing objects:  34% (31/91)   Compressing objects:  35% (32/91)   Compressing objects:  36% (33/91)   Compressing objects:  37% (34/91)   Compressing objects:  38% (35/91)   Compressing objects:  39% (36/91)   Compressing objects:  40% (37/91)   Compressing objects:  41% (38/91)   Compressing objects:  42% (39/91)   Compressing objects:  43% (40/91)   Compressing objects:  45% (41/91)   Compressing objects:  46% (42/91)   Compressing objects:  47% (43/91)   Compressing objects:  48% (44/91)   Compressing objects:  49% (45/91)   Compressing objects:  50% (46/91)   Compressing objects:  51% (47/91)   Compressing objects:  52% (48/91)   Compressing objects:  53% (49/91)   Compressing objects:  54% (50/91)   Compressing objects:  56% (51/91)   Compressing objects:  57% (52/91)   Compressing objects:  58% (53/91)   Compressing objects:  59% (54/91)   Compressing objects:  60% (55/91)   Compressing objects:  61% (56/91)   Compressing objects:  62% (57/91)   Compressing objects:  63% (58/91)   Compressing objects:  64% (59/91)   Compressing objects:  65% (60/91)   Compressing objects:  67% (61/91)   Compressing objects:  68% (62/91)   Compressing objects:  69% (63/91)   Compressing objects:  70% (64/91)   Compressing objects:  71% (65/91)   Compressing objects:  72% (66/91)   Compressing objects:  73% (67/91)   Compressing objects:  74% (68/91)   Compressing objects:  75% (69/91)   Compressing objects:  76% (70/91)   Compressing objects:  78% (71/91)   Compressing objects:  79% (72/91)   Compressing objects:  80% (73/91)   Compressing objects:  81% (74/91)   Compressing objects:  82% (75/91)   Compressing objects:  83% (76/91)   Compressing objects:  84% (77/91)   Compressing objects:  85% (78/91)   Compressing objects:  86% (79/91)   Compressing objects:  87% (80/91)   Compressing objects:  89% (81/91)   Compressing objects:  90% (82/91)   Compressing objects:  91% (83/91)   Compressing objects:  92% (84/91)   Compressing objects:  93% (85/91)   Compressing objects:  94% (86/91)   Compressing objects:  95% (87/91)   Compressing objects:  96% (88/91)   Compressing objects:  97% (89/91)   Compressing objects:  98% (90/91)   Compressing objects: 100% (91/91)   Compressing objects: 100% (91/91), done.
+Writing objects:   0% (1/103)   Writing objects:   1% (2/103)   Writing objects:   2% (3/103)   Writing objects:   3% (4/103)   Writing objects:   4% (5/103)   Writing objects:   5% (6/103)   Writing objects:   6% (7/103)   Writing objects:   7% (8/103)   Writing objects:   8% (9/103)   Writing objects:   9% (10/103)   Writing objects:  10% (11/103)   Writing objects:  11% (12/103)   Writing objects:  12% (13/103)   Writing objects:  13% (14/103)   Writing objects:  14% (15/103)   Writing objects:  15% (16/103)   Writing objects:  16% (17/103)   Writing objects:  17% (18/103)   Writing objects:  18% (19/103)   Writing objects:  19% (20/103)   Writing objects:  20% (21/103)   Writing objects:  21% (22/103)   Writing objects:  22% (23/103)   Writing objects:  23% (24/103)   Writing objects:  24% (25/103)   Writing objects:  25% (26/103)   Writing objects:  26% (27/103)   Writing objects:  27% (28/103)   Writing objects:  28% (29/103)   Writing objects:  29% (30/103)   Writing objects:  30% (31/103)   Writing objects:  31% (32/103)   Writing objects:  32% (33/103)   Writing objects:  33% (34/103)   Writing objects:  34% (36/103)   Writing objects:  35% (37/103)   Writing objects:  36% (38/103)   Writing objects:  37% (39/103)   Writing objects:  38% (40/103)   Writing objects:  39% (41/103)   Writing objects:  40% (42/103)   Writing objects:  41% (43/103)   Writing objects:  42% (44/103)   Writing objects:  43% (45/103)   Writing objects:  44% (46/103)   Writing objects:  45% (47/103)   Writing objects:  46% (48/103)   Writing objects:  48% (50/103)   Writing objects:  49% (51/103)   Writing objects:  50% (52/103)   Writing objects:  51% (53/103)   Writing objects:  52% (54/103)   Writing objects:  53% (55/103)   Writing objects:  54% (56/103)   Writing objects:  55% (57/103)   Writing objects:  56% (58/103)   Writing objects:  57% (59/103)   Writing objects:  58% (60/103)   Writing objects:  59% (61/103)   Writing objects:  60% (62/103)   Writing objects:  61% (63/103)   Writing objects:  62% (64/103)   Writing objects:  63% (65/103)   Writing objects:  64% (66/103)   Writing objects:  65% (67/103)   Writing objects:  66% (68/103)   Writing objects:  67% (70/103)   Writing objects:  68% (71/103)   Writing objects:  69% (72/103)   Writing objects:  71% (74/103)   Writing objects:  72% (75/103)   Writing objects:  73% (76/103)   Writing objects:  74% (77/103)   Writing objects:  75% (78/103)   Writing objects:  76% (79/103)   Writing objects:  77% (80/103)   Writing objects:  78% (81/103)   Writing objects:  79% (82/103)   Writing objects:  81% (84/103)   Writing objects:  82% (85/103)   Writing objects:  83% (86/103)   Writing objects:  84% (87/103)   Writing objects:  86% (89/103)   Writing objects:  87% (90/103)   Writing objects:  88% (91/103)   Writing objects:  89% (92/103)   Writing objects:  90% (93/103)   Writing objects:  91% (94/103)   Writing objects:  92% (95/103)   Writing objects:  93% (96/103)   Writing objects:  94% (97/103)   Writing objects:  95% (98/103)   Writing objects:  96% (99/103)   Writing objects:  97% (100/103)   Writing objects:  98% (101/103)   Writing objects:  99% (102/103)   Writing objects: 100% (103/103)   Writing objects: 100% (103/103), 949.04 KiB | 19.77 MiB/s, done.
+Total 103 (delta 52), reused 0 (delta 0)
+remote: Resolving deltas:   0% (0/52)   [Kremote: Resolving deltas:   1% (1/52)   [Kremote: Resolving deltas:   3% (2/52)   [Kremote: Resolving deltas:   5% (3/52)   [Kremote: Resolving deltas:   7% (4/52)   [Kremote: Resolving deltas:   9% (5/52)   [Kremote: Resolving deltas:  11% (6/52)   [Kremote: Resolving deltas:  13% (7/52)   [Kremote: Resolving deltas:  15% (8/52)   [Kremote: Resolving deltas:  17% (9/52)   [Kremote: Resolving deltas:  19% (10/52)   [Kremote: Resolving deltas:  21% (11/52)   [Kremote: Resolving deltas:  23% (12/52)   [Kremote: Resolving deltas:  25% (13/52)   [Kremote: Resolving deltas:  26% (14/52)   [Kremote: Resolving deltas:  28% (15/52)   [Kremote: Resolving deltas:  30% (16/52)   [Kremote: Resolving deltas:  32% (17/52)   [Kremote: Resolving deltas:  34% (18/52)   [Kremote: Resolving deltas:  36% (19/52)   [Kremote: Resolving deltas:  38% (20/52)   [Kremote: Resolving deltas:  40% (21/52)   [Kremote: Resolving deltas:  42% (22/52)   [Kremote: Resolving deltas:  46% (24/52)   [Kremote: Resolving deltas:  50% (26/52)   [Kremote: Resolving deltas:  51% (27/52)   [Kremote: Resolving deltas:  55% (29/52)   [Kremote: Resolving deltas:  57% (30/52)   [Kremote: Resolving deltas:  63% (33/52)   [Kremote: Resolving deltas:  65% (34/52)   [Kremote: Resolving deltas:  67% (35/52)   [Kremote: Resolving deltas:  69% (36/52)   [Kremote: Resolving deltas:  71% (37/52)   [Kremote: Resolving deltas:  73% (38/52)   [Kremote: Resolving deltas:  75% (39/52)   [Kremote: Resolving deltas:  76% (40/52)   [Kremote: Resolving deltas:  78% (41/52)   [Kremote: Resolving deltas:  80% (42/52)   [Kremote: Resolving deltas:  84% (44/52)   [Kremote: Resolving deltas:  86% (45/52)   [Kremote: Resolving deltas:  90% (47/52)   [Kremote: Resolving deltas:  92% (48/52)   [Kremote: Resolving deltas:  94% (49/52)   [Kremote: Resolving deltas:  96% (50/52)   [Kremote: Resolving deltas:  98% (51/52)   [Kremote: Resolving deltas: 100% (52/52)   [Kremote: Resolving deltas: 100% (52/52), completed with 44 local objects.[K
+To github.com:ian-flores/static_blog.git
+   8cf265a..e9d2e91  master -> master
+]0;/home/kropotkin/Documents/gh/testing_home_pagekropotkin@kronstadt:~/Documents/gh/testing_home_page$ git [Kkropotkin@kronstadt:~/Documents/gh/testing_homee_page$ git add .
