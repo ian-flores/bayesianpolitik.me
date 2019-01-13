@@ -6,19 +6,10 @@
     <description>Recent content on Bayesian Politics</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-CA</language>
-    <lastBuildDate>Sat, 22 Dec 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Nov 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>2018 - In review</title>
-      <link>/moment/test/</link>
-      <pubDate>Sat, 22 Dec 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/moment/test/</guid>
-      <description> January February  Comienzo trabajo en el Instituto de Estadisticas  Logo   March  Official Admission to MDS-UBC  Screenshot   April May  Cominezo trabajo con el PR-VDRS PyCon (Cleveland, OH)  Photo y logo  CarpentryCon (Dublin, IR)  Photo y logo  Belfast  Photo   June July August  Moved to Vancouver, BC  Photo   September  Started UBC  Photo   October  MDS courses  November  MDS courses  December  Travel to Ottawa  Photo    </description>
-    </item>
     
     <item>
       <title>Feminicides in Latin America and the Caribbean</title>
@@ -72,6 +63,15 @@
       
       <guid>/blog/2018-10/why-do-we-as-data-scientists-care-about-how-computers-communicate/</guid>
       <description>You turn on your computer, and connect to the WiFi. You open your browser and remember that you have to pay your credit card. You search for the bank&amp;rsquo;s name and click the first link you see, because the first one is always the correct one. You submit the credit card information and then get an email confirming your payment.</description>
+    </item>
+    
+    <item>
+      <title>Books I have read this year (2019)</title>
+      <link>/moment/test_2/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/moment/test_2/</guid>
+      <description></description>
     </item>
     
   </channel>

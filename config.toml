@@ -8,7 +8,7 @@ publishdir                 = "public"
 enableEmoji                = true
 hasCJKLanguage             = true
 summaryLength              = 50
-Paginate                   = 3
+Paginate                   = 5
 
 theme                      = "AllinOne"
 title                      = "Bayesian Politics"
@@ -49,14 +49,14 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
  
 
 [params]
-  faviconfile              = "img/zheng.png"               # from static/
-  avatar                   = "img/profile.jpg"             # path to image in static dir e.g img/avatar.png 
+  faviconfile              = "img/cpu.jpg"               # from static/
+  avatar                   = "img/profile.jpeg"             # path to image in static dir e.g img/avatar.png 
   author                   = "Ian Flores Siaca"
   description              = ["A Webpage about Data Science, Cyber Security and Politics", "by Ian Flores Siaca"]           # appears in the site header when set to a non-empty string
   welcome_head             = " "
   welcome_word             = " " 
 
-  latestpostscount         = 5                             # how many posts to display on the home page
+  latestpostscount         = 3                             # how many posts to display on the home page
   bloggroupby              = 'month'
   dateform                 = "January 2, 2006"
   dateformfull             = "2006-01-02  Monday  15:04:05"
