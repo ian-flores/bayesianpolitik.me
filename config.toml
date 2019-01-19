@@ -73,7 +73,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   katex                    = true
 
   # links
-  email                    = "iflores.siaca@gmail.com"
+  email                    = "ian.flores@mailfence.com"
   github                   = "//github.com/ian-flores"
   linkedin                 = "//linkedin.com/in/ian-flores-siaca-ba0786a1/"
  # facebook                 = "//facebook.com/you"
