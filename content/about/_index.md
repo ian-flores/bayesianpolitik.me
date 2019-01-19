@@ -16,6 +16,7 @@ intersection of Data Science, Cyber Security and Politics.
 - Secure Email: ian.flores@mailfence.com
 - Normal Email: iflores.siaca@gmail.com
 - GitHub: [`@ian-flores`](https://github.com/ian-flores/)
+- Linkedin: [Linkedin Profile](https://www.linkedin.com/in/ian-flores-siaca-ba0786a1/)
 
 
 ## Research
