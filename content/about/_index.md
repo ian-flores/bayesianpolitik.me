@@ -11,6 +11,13 @@ Bachelor in Science with a major in Integrative Biology from the University
 of Puerto Rico - Rio Piedras Campus. I have a special interest for the 
 intersection of Data Science, Cyber Security and Politics.
 
+## Online Presence
+
+- Secure Email: ian.flores@mailfence.com
+- Normal Email: iflores.siaca@gmail.com
+- GitHub: [`@ian-flores`](https://github.com/ian-flores/)
+
+
 ## Research
 
 I am an applied scientist who is trying to use algorithms, statistics and data to understand problems and situations that occur in our world. One example of this is my current research project with Dr. Carlos Corrada. It is focused on exploring different data augmentation techniques to overcome the barrier posed by deep learning methods which require big amounts of data to achieve a high accuracy for classification purposes. We are using a biological dataset collected from soundscape recordings in forests in Puerto Rico as a model to explore these methods. We are currently working on writing a manuscript to document our findings, but our work is completely available at [GitHub](https://github.com/ian-flores/Deep-Learning-Species-Identification).
@@ -29,7 +36,7 @@ I am an applied scientist who is trying to use algorithms, statistics and data t
       
 ### Non-Profits
 
-* Caras de las Americas
+* Caras de las Americas - [Deployed App](https://server.connectrelief.com/)
    * Develop web application to visualize data from surveys realized in communities in Puerto Rico after Hurricane Maria.
       
 In an effort of total transparency, I have requested the Office of the Comptroller of the Government of Puerto Rico to publish the four (4) contracts I have had with the Government of Puerto Rico in their full version. These are available [here](https://consultacontratos.ocpr.gov.pr/), if you type `Ian Flores` under the `Contratista` text box you will see the contracts listed. Under the `Documento` column you can find the PDF of the full contract minus personal information.
