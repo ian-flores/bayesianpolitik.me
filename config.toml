@@ -84,6 +84,6 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   include_rss              = true                          # include RSS <link> tag in <head> and show RSS icon
   
   # analytics
-  googleAnalytics          = "your-google-analytic-id"
+  googleAnalytics          = "UA-125715029-1"
     
     
