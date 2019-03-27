@@ -997,3 +997,16 @@ remote: Resolving deltas:   0% (0/59)   [Kremote: Resolving deltas:   1% (1/59
 To github.com:ian-flores/static_blog.git
    9f83a48..4c5216d  master -> master
 ]0;/home/kropotkin/Documents/gh/testing_home_pagekropotkin@kronstadt:~/Documents/gh/testing_home_page$ git pushcommit -m "Submission"add .[K
+]0;/home/kropotkin/Documents/gh/testing_home_pagekropotkin@kronstadt:~/Documents/gh/testing_home_page$ git add .[1Ppushcommit -m "Submission"
+[master 2563bc9] Submission
+ 5 files changed, 34 insertions(+), 4 deletions(-)
+]0;/home/kropotkin/Documents/gh/testing_home_pagekropotkin@kronstadt:~/Documents/gh/testing_home_page$ git commit -m "Submission"add .[K[1Ppush
+Counting objects: 16, done.
+Delta compression using up to 8 threads.
+Compressing objects:   7% (1/14)   Compressing objects:  14% (2/14)   Compressing objects:  21% (3/14)   Compressing objects:  28% (4/14)   Compressing objects:  35% (5/14)   Compressing objects:  42% (6/14)   Compressing objects:  50% (7/14)   Compressing objects:  57% (8/14)   Compressing objects:  64% (9/14)   Compressing objects:  71% (10/14)   Compressing objects:  78% (11/14)   Compressing objects:  85% (12/14)   Compressing objects:  92% (13/14)   Compressing objects: 100% (14/14)   Compressing objects: 100% (14/14), done.
+Writing objects:   6% (1/16)   Writing objects:  12% (2/16)   Writing objects:  18% (3/16)   Writing objects:  25% (4/16)   Writing objects:  31% (5/16)   Writing objects:  37% (6/16)   Writing objects:  43% (7/16)   Writing objects:  50% (8/16)   Writing objects:  56% (9/16)   Writing objects:  62% (10/16)   Writing objects:  68% (11/16)   Writing objects:  75% (12/16)   Writing objects:  81% (13/16)   Writing objects:  87% (14/16)   Writing objects:  93% (15/16)   Writing objects: 100% (16/16)   Writing objects: 100% (16/16), 3.15 KiB | 1.58 MiB/s, done.
+Total 16 (delta 10), reused 0 (delta 0)
+remote: Resolving deltas:   0% (0/10)   [Kremote: Resolving deltas:  10% (1/10)   [Kremote: Resolving deltas:  20% (2/10)   [Kremote: Resolving deltas:  30% (3/10)   [Kremote: Resolving deltas:  40% (4/10)   [Kremote: Resolving deltas:  50% (5/10)   [Kremote: Resolving deltas:  60% (6/10)   [Kremote: Resolving deltas:  70% (7/10)   [Kremote: Resolving deltas:  80% (8/10)   [Kremote: Resolving deltas:  90% (9/10)   [Kremote: Resolving deltas: 100% (10/10)   [Kremote: Resolving deltas: 100% (10/10), completed with 10 local objects.[K
+To github.com:ian-flores/static_blog.git
+   4c5216d..2563bc9  master -> master
+]0;/home/kropotkin/Documents/gh/testing_home_pagekropotkin@kronstadt:~/Documents/gh/testing_home_page$ 
