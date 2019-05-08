@@ -6,7 +6,7 @@ title: "Dancing the K-Means Dance"
 tags: ['ds-education']
 series: ['Education']
 categories: ['English']
-img: '/images/blog/2018-11/capitol_pr.jpg'
+img: '/images/blog/2019-05/k_means.png'
 toc: true
 ---
 
