@@ -1,6 +1,6 @@
 ---
-date:  "2019-05-07"
-publishdate: "2019-05-07"
+date:  "2019-05-11"
+publishdate: "2019-05-11"
 draft: false
 title: "Dancing the K-Means Dance"
 tags: ['ds-education']
