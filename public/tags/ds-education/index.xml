@@ -6,7 +6,7 @@
     <description>Recent content in Ds Education on Bayesian Politics</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-CA</language>
-    <lastBuildDate>Tue, 07 May 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 11 May 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/ds-education/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Dancing the K-Means Dance</title>
       <link>/blog/2019-05/dancing-the-k-means-dance/</link>
-      <pubDate>Tue, 07 May 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 11 May 2019 00:00:00 +0000</pubDate>
       
       <guid>/blog/2019-05/dancing-the-k-means-dance/</guid>
       <description>Dancing can be traced back to the origins of almost every society in the world. It is a way to communicate ideas and feelings in a free manner. It also is a simple, memorable and effective way to communicate from kids to seniors. We wondered whether we could use dance to facilitate student learning and retention of a Machine Learning algorithm in an introductory data science course.</description>

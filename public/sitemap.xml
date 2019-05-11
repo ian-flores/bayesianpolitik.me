@@ -4,7 +4,7 @@
   
   <url>
     <loc>/blog/2019-05/dancing-the-k-means-dance/</loc>
-    <lastmod>2019-05-07T00:00:00+00:00</lastmod>
+    <lastmod>2019-05-11T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -53,8 +53,19 @@
   </url>
   
   <url>
+    <loc>/moment/test_2/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/2019/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/</loc>
-    <lastmod>2019-05-07T00:00:00+00:00</lastmod>
+    <lastmod>2019-05-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -66,6 +77,7 @@
   
   <url>
     <loc>/categories/</loc>
+    <lastmod>2018-01-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -101,13 +113,13 @@
   
   <url>
     <loc>/tags/ds-education/</loc>
-    <lastmod>2019-05-07T00:00:00+00:00</lastmod>
+    <lastmod>2019-05-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/series/education/</loc>
-    <lastmod>2019-05-07T00:00:00+00:00</lastmod>
+    <lastmod>2019-05-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -119,7 +131,7 @@
   
   <url>
     <loc>/categories/english/</loc>
-    <lastmod>2019-05-07T00:00:00+00:00</lastmod>
+    <lastmod>2019-05-11T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
