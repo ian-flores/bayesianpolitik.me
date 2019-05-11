@@ -23,3 +23,5 @@ students agreed that the algorithm had converged (that the TA's didn't had to mo
 We received postitive feedback from the students that this class activity helped them learn and remember the K-means algorithm. One of the limitations to this class activity that we observed was that the algorithm converges very quickly given the students engagement and attention to detail.
 
 All educators, including Data science educators, should be looking to acquire new teaching techniques that are engaging to help students learn complex concepts. We believe that interpretive dance is a great tool for the data science educator's toolbox for teaching the K-means, and potentially, other algorithm(s). 
+
+> I want to thank Dr. Tiffany Timbers for her role as the Instructor in this course, for giving me the opportunity to work in this course as an Academic Assistant and a Teaching Assistant, and for her help in editing this blog post which contributions helped me improve it.
