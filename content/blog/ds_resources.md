@@ -6,9 +6,12 @@ title: "Resources for Getting Started on Data Science"
 tags: ['data-science', 'education']
 series: ['DS Education']
 categories: ['English']
-img: '/images/blog/2018-10/puerto_rico_death_choropleth.png'
+img: '/images/blog/2019-09/cdbs-white-bg.png'
 toc: true
 ---
+> The image was taken from Cloud Based Data Science.
+
+This is a list I compiled of my favorite Data Science resources that are useful to get started on the field.
 
 ## R
 
