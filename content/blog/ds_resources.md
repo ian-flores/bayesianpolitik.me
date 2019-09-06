@@ -6,7 +6,7 @@ title: "Resources for Getting Started on Data Science"
 tags: ['data-science', 'education']
 series: ['DS Education']
 categories: ['English']
-img: '/images/blog/2019-09/cdbs-white-bg.png'
+img: "https://d2o9wnd5wywfpj.cloudfront.net/covers/8/large/cbds-white-bg.png?1537201915"
 toc: true
 ---
 > The image was taken from Cloud Based Data Science.

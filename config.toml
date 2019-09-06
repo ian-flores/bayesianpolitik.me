@@ -7,8 +7,8 @@ layoutdir                  = "layouts"
 publishdir                 = "public"
 enableEmoji                = true
 hasCJKLanguage             = true
-summaryLength              = 50
-Paginate                   = 5
+summaryLength              = 0
+Paginate                   = 10
 
 theme                      = "AllinOne"
 title                      = "Bayesian Politics"
@@ -56,11 +56,11 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   welcome_head             = " "
   welcome_word             = " " 
 
-  latestpostscount         = 3                             # how many posts to display on the home page
+  latestpostscount         = 10                             # how many posts to display on the home page
   bloggroupby              = 'month'
   dateform                 = "January 2, 2006"
   dateformfull             = "2006-01-02  Monday  15:04:05"
-  noshowreadtime           = false                         # if true, don't show "<x> minutes read" in posts
+  noshowreadtime           = true                         # if true, don't show "<x> minutes read" in posts
 
   # slides
   slidesDirPath            = "themes/AllinOne/static/img/header-slides"    # path to image in local dir (path for hugo)
