@@ -6,5 +6,4 @@ title = "What I'm doing? As of September 6, 2019"
 
 **Current Position**
 
-- *Data Science Consultant*
-- *Data Science Professor* at the **University of Sacred Heart**
+- *Data Scientist & Data Science Educator @ Audassimus*
